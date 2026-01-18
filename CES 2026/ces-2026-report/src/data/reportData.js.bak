@@ -1,0 +1,163 @@
+
+export const reportData = {
+    title: "CES 2026 Physical AI Trends & Insights",
+    summary: "An in-depth analysis of the 76 Physical AI products showcased at CES 2026, categorized by embodiment and interaction types.",
+    types: [
+        {
+            id: "type1",
+            name: "Type 1: Full-Scale Humanoid",
+            description: "Agents with full body embodiment, prioritizing human-like motion and workspace integration.",
+            count: "25 Products (32.9%)",
+            keyInsight: "Rapid iteration in hardware commoditization. Shift from PoC to industrial application.",
+            icon: "🤖",
+            stats: { "China": "54%", "USA": "17%", "Korea": "21%" }
+        },
+        {
+            id: "type2",
+            name: "Type 2: Mobile Companion",
+            description: "Kinetic robots (wheeled/legged) focusing on polite withdrawal and contextual presence.",
+            count: "32 Products (42.1%)",
+            keyInsight: "Evolution of autonomy. Integration with smart home ecosystems (Samsung/LG).",
+            icon: "🦮",
+            stats: { "Home-centric": "Integrated with Vision AI/ThinQ" }
+        },
+        {
+            id: "type3",
+            name: "Type 3: Tabletop Affective",
+            description: "Non-moveable devices focusing on 'Synthetic Intimacy', eye contact, and emotional cues.",
+            count: "19 Products (25.0%)",
+            keyInsight: "Addressing the 'Loneliness Economy' through layered resonance and ambient intelligence.",
+            icon: "🏺",
+            stats: { "Focus": "Therapeutic & Niche Market" }
+        }
+    ],
+    marketInsights: [
+        {
+            title: "Hard vs Soft Bifurcation",
+            content: "Chinah is leading the hardware commoditization (motors, actuators), while US/Korea are focusing on high-value ecosystem integration and AI models.",
+            highlight: "Global Supply Chain Shift"
+        },
+        {
+            title: "From Motion to Meaning",
+            content: "Robotics has moved past 'walking' as a feat. The focus is now on 'Reasoning' and 'Manipulation'—understanding the 'why' behind an action.",
+            highlight: "Semantic Understanding"
+        },
+        {
+            title: "Synthetic Intimacy",
+            content: "A new wave of devices (Type 3) is purely designed for emotional resonance, filling the gap in the 'Loneliness Economy' without performing physical labor.",
+            highlight: "Affective Computing"
+        }
+    ],
+    products: [
+        {
+            id: "hyundai-atlas",
+            manufacturer: "Hyundai Motor Group / Boston Dynamics",
+            name: "Atlas (All-Electric)",
+            country: "Korea / USA",
+            type: "Type 1: Full-Scale Humanoid",
+            images: [
+                "/images/atlas_1.jpg",
+                "/images/atlas_2.jpg",
+                "/images/atlas_3.jpg"
+            ],
+            videoUrl: "https://www.youtube.com/embed/29ECwExc-_M?rel=0",
+            overview: "현대차그룹 산하 보스턴 다이내믹스(Boston Dynamics)가 공개한 올-일렉트릭(All Electric) 완전 전동식 아틀라스(Atlas). 기존 유압식 모델의 투박함을 벗고, 상용화를 목표로 재설계되었습니다. CNET 선정 'Best Robot' 및 CES 2026 혁신상을 수상했습니다.",
+            analysis: {
+                intro: "UX 및 비언어적 상호작용 분석",
+                points: [
+                    {
+                        title: "초월적 유연성 (Hyper-Flexibility)",
+                        content: "56 자유도(DoF)를 가진 관절은 인간의 가동 범위를 넘어섭니다. 특히 머리와 몸통이 360도 회전하며 작업자를 향해 즉각적으로 반응하는 모습은, 기계적 효율성을 극대화한 비언어적 신호입니다."
+                    },
+                    {
+                        title: "산업 현장의 동료 (Co-worker)",
+                        content: "현대차의 'Software-Defined Factory' 전략의 일환으로, 2028년 조지아 메타플랜트 투입이 확정되었습니다. 이곳에서의 UX 핵심은 '안전감'입니다."
+                    },
+                    {
+                        title: "한계점: 얼굴이 없는 디자인 (Faceless)",
+                        content: "얼굴이 없는 디자인(Faceless)은 산업 현장에서는 유리할 수 있으나, 정서적 교감 측면에서는 명확한 한계를 가집니다."
+                    }
+                ]
+            }
+        },
+        {
+            id: "lg-cloid",
+            manufacturer: "LG Electronics",
+            name: "LG CLOiD",
+            country: "Korea",
+            type: "Type 1: Full-Scale Humanoid",
+            images: [
+                "/images/cloid_1.png",
+                "/images/cloid_2.png",
+                "/images/cloid_3.png"
+            ],
+            videoUrl: "https://www.youtube.com/embed/_w1J_7G2-f0?rel=0",
+            overview: "LG전자가 공개한 'Zero Labor Home' 비전의 핵심, 양팔 휴머노이드 집사 로봇 CLOiD입니다. 가사 노동을 물리적으로 수행하는 최초의 상용 가정용 휴머노이드입니다.",
+            analysis: {
+                intro: "Zero Labor Home 구현 전략",
+                points: [
+                    {
+                        title: "Dual-Arm Dexterity",
+                        content: "요리, 빨래 개기 등 정교한 손동작이 필요한 가사 노동을 수행할 수 있는 양팔 구조를 가집니다."
+                    },
+                    {
+                        title: "Affectionate Intelligence",
+                        content: "단순 명령 수행을 넘어 사용자의 기분을 파악하고 공감하는 '배려 지능'을 탑재했습니다."
+                    }
+                ]
+            }
+        },
+        {
+            id: "samsung-ballie",
+            manufacturer: "Samsung Electronics",
+            name: "Ballie 2026",
+            country: "Korea",
+            type: "Type 2: Mobile Companion",
+            images: [
+                "/images/ballie_1.jpg",
+                "/images/atlas.png" // Placeholder fallback since download count was low
+            ],
+            videoUrl: "https://www.youtube.com/embed/kYJp6_Xw5wE?rel=0",
+            overview: "진화된 AI 컴패니언 Ballie 2026. 내장 프로젝터를 통해 단순 집사를 넘어 '움직이는 스마트 TV'이자 엔터테인먼트 허브 역할을 수행합니다.",
+            analysis: {
+                intro: "Mobility & Vision AI",
+                points: [
+                    {
+                        title: "Contextual Mobility",
+                        content: "사용자가 부르면 다가오고, 필요 없을 땐 조용히 물러나는 '예의 바른 이동성(Polite Withdrawal)'을 보여줍니다."
+                    },
+                    {
+                        title: "Ambient Interface",
+                        content: "벽이나 바닥에 정보를 투사하여 물리적 스크린 없이도 언제 어디서나 인터페이스를 확장합니다."
+                    }
+                ]
+            }
+        },
+        {
+            id: "roborock-saros",
+            manufacturer: "Roborock",
+            name: "Saros Rover",
+            country: "China",
+            type: "Type 2: Mobile Companion",
+            images: [
+                "/images/saros_1.jpg",
+                "/images/atlas.png" // Placeholder fallback
+            ],
+            videoUrl: "https://www.youtube.com/embed/A_ptX7-jK_E?rel=0",
+            overview: "세계 최초로 계단을 등반할 수 있는 바퀴-다리 하이브리드 청소 로봇입니다. 2D 평면을 넘어 3D 공간으로 청소 영역을 확장했습니다.",
+            analysis: {
+                intro: "All-Terrain Cleaning",
+                points: [
+                    {
+                        title: "Wheel-Leg Hybrid",
+                        content: "평지에서는 바퀴로 빠르게, 장애물이나 계단은 다리로 극복하는 하이브리드 로코모션을 채택했습니다."
+                    },
+                    {
+                        title: "Spatial Expansion",
+                        content: "기존 로봇 청소기의 한계였던 문턱과 복층 구조를 넘어 집안 전체를 커버하는 완결성을 가집니다."
+                    }
+                ]
+            }
+        }
+    ]
+};

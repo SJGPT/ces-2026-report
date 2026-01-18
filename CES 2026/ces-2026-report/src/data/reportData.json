@@ -1,0 +1,1675 @@
+{
+  "title": "CES 2026 Physical AI Trends & Insights",
+  "summary": "An in-depth analysis of the 30 defining Physical AI products showcased at CES 2026, categorized by embodiment and interaction types.",
+  "types": [
+    {
+      "id": "type1",
+      "name": "01 / Anthropomorphic Humanoid",
+      "description": "Full-scale agents prioritizing human-like interaction and workspace integration.",
+      "count": "Total Products",
+      "keyInsight": "Shift from 'Walking' to 'Working' — Focus on dexterous manipulation and safe co-presence.",
+      "icon": "🤖"
+    },
+    {
+      "id": "type2",
+      "name": "02 / Moveable Companion",
+      "description": "Kinetic robots (wheeled/legged) focusing on service, delivery, and polite withdrawal.",
+      "count": "Total Products",
+      "keyInsight": "Hyper-mobility (stair climbing) and context-aware 'Service UX' that predicts needs.",
+      "icon": "🦮"
+    },
+    {
+      "id": "type3",
+      "name": "03 / TableTop AI Device",
+      "description": "Stationary or micro-kinetic devices focusing on emotional resonance and synthetic intimacy.",
+      "count": "Total Products",
+      "keyInsight": "Minimizing physical movement to maximize emotional bandwidth and eye-contact.",
+      "icon": "🏺"
+    }
+  ],
+  "marketInsights": [
+    {
+      "title": "Presence & Legibility",
+      "content": "Motion must be transparent and predictable to build trust. While dynamic movements from Atlas and CLOiD are impressive, they risk uncanny valley effects. Google DeepMind emphasizes 'transparent motions' as key to human-robot trust. The winning formula: kinetic politeness through turn-taking, yielding, and intentional withdrawal when not needed.",
+      "highlight": "Kinetic Politeness Framework"
+    },
+    {
+      "title": "Emotional Temperature & Bonding",
+      "content": "Most affective cues remain superficial (LED blinks, basic dances). Pet-like expressions from Loona and Ollobot show promise, but lack mechanisms for long-term attachment. Scientific American warns that 'hallucination in motion is disastrous.' The opportunity: layered resonance using light for baseline mood temperature and micro-expressions for empathy peaks, creating always-on ambient presence that accumulates reliability over time.",
+      "highlight": "Affectionate Intelligence"
+    },
+    {
+      "title": "Ambient vs Intrusive Interaction",
+      "content": "Companion robots are proliferating (Miroki, Jennie), but most remain task-centric without true 'always-on' presence. The concept of intentional withdrawal—respectful non-intervention—is virtually absent. Strategic differentiation lies in context-aware Stay/Act/Withdraw behaviors that provide uninterrupted states, respecting user rhythm while building affection through ambient awareness.",
+      "highlight": "Non-Intrusive Presence"
+    },
+    {
+      "title": "Context Continuity & Reliability",
+      "content": "Mobility strengths (MobED, Ballie following) are undermined by weak emotional continuity—robots feel 'cold' when tasks end. The gap: capturing in-between moments through world understanding, demonstrating growing reliability through subtle light and motion cues. This continuous presence, not episodic task completion, creates the trust over time that resonates with executives and users alike.",
+      "highlight": "Trust Over Time"
+    }
+  ],
+  "products": [
+    {
+      "id": "atlas-electric",
+      "typeId": "type1",
+      "manufacturer": "Boston Dynamics (Hyundai Motor Group)",
+      "name": "Atlas (Next-Gen Electric)",
+      "country": "USA / Korea",
+      "overview": "Purpose: To push the boundaries of dynamic mobility, manipulation, and whole-body coordination in real-world environments; accelerate development toward practical humanoid robots for industrial tasks, logistics, and eventually consumer/home applications while serving as a research platform for embodied AI. At CES 2026, Boston Dynamics showcased the fully electric next-gen Atlas with dramatic live demonstrations including complex parkour sequences, heavy object manipulation (lifting and throwing large boxes), fluid whole-body motions (e.g., backflips, running, crawling under obstacles), and new AI-driven autonomy powered by reinforcement learning and multimodal models (integrated with Google DeepMind's Gemini and other foundation models). The electric design eliminates hydraulic systems for quieter, more efficient operation, wider range of motion, and lighter weight. Hyundai announced pilot deployments in its factories starting 2026–2027, with expanded commercial partnerships.\n\n[KR] 제품의 목적: 실세계 환경에서의 동적 이동성, 조작, 전신 협응의 한계를 확장; 산업 작업, 물류, 궁극적으로 소비자/가정 적용을 위한 실용적 휴머노이드 로봇 개발 가속화 및 체화된 AI 연구 플랫폼 역할. 상세 설명: CES 2026에서 Boston Dynamics는 완전 전기 차세대 Atlas를 선보이며 복잡한 파쿠르 시퀀스, 무거운 물체 조작(큰 박스 들고 던지기), 유연한 전신 모션(백플립, 달리기, 장애물 아래 기어가기), 강화학습 및 멀티모달 모델(Google DeepMind Gemini 등 통합) 기반 AI 자율성을 라이브 시연. 전기 설계로 유압 시스템 제거 → 더 조용하고 효율적이며 가벼운 무게와 넓은 운동 범위 확보. 현대자동차그룹은 2026~2027년 공장 파일럿 배치를 발표하며 상업 파트너십 확대. 데모는 사전 프로그래밍 없이 예측 불가능 환경에 실시간 적응 강조.",
+      "analysis": {
+        "intro": "Dynamic Mobility & Embodied AI\n[KR] 동적 이동성 및 체화된 AI",
+        "points": [
+          {
+            "title": "Physical AI Insight\n[KR] Physical AI 인사이트",
+            "content": "The electric Atlas represents a paradigm shift toward commercially viable, highly dynamic Physical AI — combining superhuman agility with machine learning for adaptive behavior in unstructured spaces. Its reinforcement-learning-trained whole-body control demonstrates 'embodied intelligence' where physical form and AI reasoning are deeply intertwined, enabling proactive navigation and manipulation that feels 'alive' rather than scripted. This reinforces the value of continuous physical presence and contextual adaptation in everyday environments.\n\n[KR] 전기 Atlas는 상업적으로 실현 가능한 고동적 Physical AI의 패러다임 전환 — 초인적 민첩성과 머신러닝을 결합하여 비구조화 공간에서 적응 행동 구현. 강화학습 기반 전신 제어는 물리적 형태와 AI 추론이 깊이 얽힌 '체화된 지능'을 보여주며, 스크립트가 아닌 '살아있는' 듯한 사전적 탐색과 조작 가능. 일상 환경에서의 지속적 물리적 존재감과 맥락 적응의 가치를 재확인하며 연구실에서 실세계 배치로 연결.",
+            "type": "Physical AI Insight"
+          },
+          {
+            "title": "Expression System UX Insight\n[KR] Expression System UX 인사이트",
+            "content": "Atlas excels in Layer 2 (Motion & Physical Behavior) with fluid, legible whole-body movements that convey clear intent and agency. The absence of overt facial features yet strong perceived 'aliveness' through motion alone highlights how kinetic expressivity can establish emotional baseline and trust over time. For target form factors (especially Movable TV): predictive, smooth kinetic trajectories for 'act' and 'withdraw' roles; subtle body leans or head tilts as empathy cues during user proximity; ambient lighting synchronized with motion intensity for mood temperature. This motion-first approach inspires our PoC to prioritize 'predictability → trust' and 'living presence' through non-verbal physical signaling.\n\n[KR] Atlas는 Layer 2(Motion & Physical Behavior)에서 유연하고 가독성 높은 전신 움직임으로 명확한 의도와 agency 전달. 명확한 얼굴 특징 없어도 모션만으로 강한 '살아있음' 인식 → 비인간형 디자인에서도 키네틱 표현성이 emotional baseline과 trust over time 구축 가능성 강조. 우리 타겟 폼팩터(특히 무빙 스타일 TV 우선)에 적용 시: 'act'와 'withdraw' 역할을 위한 예측적·부드러운 키네틱 궤적(불안 감소를 위한 부드러운 접근/후퇴); 사용자 근접 시 empathy cues로서 미세 몸 기울임이나 헤드 틸트(키네틱 관절 활용); 모션 강도와 동기화된 ambient lighting으로 mood temperature(휴식 시 차분한 블루, 상호작용 시 따뜻한 펄스). 이 모션 우선 접근은 PoC에서 'predictability → trust'와 'living presence'를 비언어적 물리적 시그널링으로 우선하도록 영감.",
+            "type": "UX Insight"
+          }
+        ]
+      },
+      "images": [
+        "/images/products/atlas-electric/atlas-electric_1.jpg",
+        "/images/products/atlas-electric/atlas-electric_2.jpg",
+        "/images/products/atlas-electric/atlas-electric_3.jpg",
+        "/images/products/atlas-electric/atlas-electric_4.jpg",
+        "/images/products/atlas-electric/atlas-electric_5.jpg"
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=Boston+Dynamics+Electric+Atlas+CES+2026"
+    },
+    {
+      "id": "lg-cloid",
+      "typeId": "type1",
+      "manufacturer": "LG Electronics",
+      "name": "CLOiD (Gen 2026)",
+      "country": "South Korea",
+      "overview": "Purpose: To realize a 'Zero Labor Home' by autonomously handling daily chores while providing proactive emotional support, companionship, and contextual life assistance; designed to become a seamless, always-present family member that reduces cognitive and physical burden in everyday life. At CES 2026, LG unveiled the evolved CLOiD with significant upgrades: dual-wheel mobility combined with a kinetic expressive head (tilt, nod, rotate), circular face-like display for micro-expressions, integrated ambient lighting ring, advanced ThinQ AI platform with on-device multimodal processing, and new physical task capabilities (laundry initiation, dish unloading, light object transport, pet monitoring). Live demos showed unscripted emotional responsiveness (e.g., gentle approach when detecting user fatigue via voice tone/camera, soft lighting changes for mood soothing, playful gestures during family interactions) and seamless integration with LG appliances. The robot proactively anticipates needs based on habitual patterns and environmental sensing, emphasizing calm presence over intrusive assistance.\n\n[KR] 제품의 목적: 일상 가사 자동화로 ‘Zero Labor Home’ 실현과 동시에 사전적 감정 지원, 동반자 역할, 맥락 기반 생활 보조 제공; 인지적·물리적 부담을 줄이는 상시 존재 가족 구성원으로 설계. 상세 설명: CES 2026에서 LG는 대폭 업그레이드된 CLOiD를 공개: 듀얼 휠 이동성과 키네틱 표현 헤드(틸트, 끄덕임, 회전), 마이크로 표현용 원형 얼굴형 디스플레이, ambient lighting 링 통합, 온디바이스 멀티모달 처리 강화 ThinQ AI 플랫폼, 새로운 물리 작업 능력(세탁 시작, 식기 비우기, 가벼운 물건 운반, 펫 모니터링). 라이브 데모는 비스크립트 감정 반응성(음성 톤/카메라로 피로 감지 시 부드러운 접근, 기분 진정을 위한 소프트 조명 변화, 가족 상호작용 시 장난스러운 제스처)과 LG 가전과의 원활 통합 강조. 습관 패턴과 환경 센싱 기반 사전적 필요 예측으로 침습적이지 않은 차분한 존재감 우선.",
+      "analysis": {
+        "intro": "Proactive Affective Home AI\n[KR] 사전적 감정 기반 홈 AI",
+        "points": [
+          {
+            "title": "Physical AI Insight\n[KR] Physical AI 인사이트",
+            "content": "CLOiD exemplifies a consumer-ready shift toward 'proactive yet unobtrusive' Physical AI in the home — blending task automation with affective presence. Its contextual awareness (via continuous sensing) and restrained physical interventions validate the 'stay/act/withdraw' model, creating value in the in-between moments of life where explicit requests are absent. By prioritizing emotional temperature over functional overload, it demonstrates how Physical AI can accumulate trust through consistent, gentle physical signaling in lived domestic spaces.\n\n[KR] CLOiD는 가정 내 “사전적이면서 비침습적” Physical AI의 소비자 준비 단계 전환 사례 — 작업 자동화와 affective 존재감 결합. 지속적 센싱 기반 맥락 인식과 절제된 물리 개입으로 ‘stay/act/withdraw’ 모델 검증, 명시적 요청 없는 삶의 in-between moments에서 가치 창출. 기능 과부하보다 emotional temperature 우선으로, 일상 가정 공간에서 일관된 부드러운 물리 시그널링으로 신뢰 축적 방식 보여줌.",
+            "type": "Physical AI Insight"
+          },
+          {
+            "title": "Expression System UX Insight\n[KR] Expression System UX 인사이트",
+            "content": "CLOiD shines in integrated Layer 1 (Light) + Layer 2 (Motion) + Layer 3 (Face/Display) synergy — the ambient lighting ring subtly shifts color to reflect emotional baseline, kinetic head movements provide legible agency and turn-taking politeness, and the circular display delivers micro-expressions for empathy cues. This creates a calm, reliable 'living presence' that reduces anxiety in transitional moments. For target form factors (especially Tabletop & Movable TV): synchronized ambient lighting + kinetic orientation for mood temperature; restrained micro-gestures (nod, sway) as non-verbal acknowledgment; face/projection cues calibrated for warmth to build attachment. Critically, CLOiD's restraint reinforces our Strategic Layer's 'uninterrupted state' and 'trust over time'.\n\n[KR] CLOiD는 Layer 1(Light) + Layer 2(Motion) + Layer 3(Face/Display)의 통합 시너지 강점 — ambient lighting 링으로 emotional baseline 미묘 전달, 키네틱 헤드 움직임으로 가독성 있는 agency와 turn-taking politeness 제공, 원형 디스플레이로 empathy cues 전달하며 과도한 리얼리즘 피함. 이는 전환 순간의 불안 감소하는 차분하고 신뢰할 수 있는 ‘living presence’ 창출. 우리 타겟 폼팩터(특히 테이블탑 & 무빙 스타일 TV 우선)에 적용 시: mood temperature와 근접 기반 존재감을 위한 동기화된 ambient lighting + 키네틱 방향 전환; companionship 강화를 위한 절제된 마이크로 제스처(nod, subtle sway) 비언어적 인정; uncanny valley 피하면서 attachment 구축 위한 따뜻함 중심 face/projection cues. 핵심적으로 CLOiD의 절제는 Strategic Layer의 ‘uninterrupted state’와 ‘trust over time’ 강화.",
+            "type": "UX Insight"
+          }
+        ]
+      },
+      "images": [
+        "/images/products/lg-cloid/lg-cloid_1.jpg",
+        "/images/products/lg-cloid/lg-cloid_2.jpg",
+        "/images/products/lg-cloid/lg-cloid_3.jpg",
+        "/images/products/lg-cloid/lg-cloid_4.jpg",
+        "/images/products/lg-cloid/lg-cloid_5.jpg"
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=LG+CLOi+Robot+CES+2026"
+    },
+    {
+      "id": "sharpa-north",
+      "typeId": "type1",
+      "manufacturer": "Sharpa (Embodied AI Specialist)",
+      "name": "North",
+      "country": "Singapore",
+      "overview": "Purpose: To create 'useful time' for humans by automating complex, repetitive real-world tasks with human-level dexterity and autonomy; designed for seamless integration into everyday environments (home, office, service) through prolonged, unscripted physical interaction without constant supervision. At CES 2026, Sharpa debuted North with groundbreaking fully autonomous live demonstrations: high-speed ping-pong rallies (0.02-second reaction time, real-time trajectory prediction), precise photography framing (within 2mm accuracy), card dealing, and extended sequential tasks like building structures — all executed without human intervention, scripting, or teleoperation. North features a wheeled mobile base for positioning, adjustable torso, highly dexterous robotic hands with integrated touch/vision, and multimodal AI (combining vision, language understanding, and manipulation in real-time).\n\n[KR] 제품의 목적: 인간 수준 덱스터리티와 자율성으로 복잡·반복적 실세계 작업 자동화하여 인간에게 '유용한 시간' 창출; 상시 감독 없이 일상 환경(가정, 사무, 서비스)에 원활 통합 위한 장기적·비스크립트 물리 상호작용 설계. 상세 설명: CES 2026에서 Sharpa는 North를 최초 공개하며 혁신적 완전 자율 라이브 데모 시연: 고속 핑퐁 랠리(0.02초 반응 시간, 실시간 궤적 예측), 정밀 사진 프레이밍(2mm 이내 정확도), 카드 딜링, 구조물 구축 등 장기 시퀀스 작업 — 모두 인간 개입·스크립트·원격 조작 없이 수행. 휠 모바일 베이스(포지셔닝), 조절 가능 토르소, 터치/비전 통합 고덱스터러스 로보틱 핸드, 멀티모달 AI(비전·언어 이해·조작 실시간 결합) 탑재.",
+      "analysis": {
+        "intro": "Embedded Multimodal Intelligence\n[KR] 체화된 멀티모달 지능",
+        "points": [
+          {
+            "title": "Physical AI Insight\n[KR] Physical AI 인사이트",
+            "content": "North advances 'embodied multimodal intelligence' by prioritizing real-time integration of perception, reasoning, and precise physical action — enabling prolonged autonomous performance in dynamic, unstructured tasks. Its 0.02s reaction and sustained coordination demonstrate a leap toward reliable Physical AI that operates as a proactive agent, validating the shift from isolated demos to deployable, context-aware systems in lived environments.\n\n[KR] North는 퍼셉션·추론·정밀 물리 행동의 실시간 통합 우선으로 '체화된 멀티모달 지능' 진보 — 동적·비구조화 작업에서 인간-like 적응성 요구하는 장기 자율 성능 구현. 0.02초 반응과 지속 코디네이션으로 신뢰할 수 있는 Physical AI로의 도약 보여주며, 인간 감독 최소화하고 isolated 데모에서 lived 환경의 배포 가능·맥락 인지 시스템으로 전환 검증.",
+            "type": "Physical AI Insight"
+          },
+          {
+            "title": "Expression System UX Insight\n[KR] Expression System UX 인사이트",
+            "content": "North's core strength is in Layer 2 (Motion & Physical Behavior) with exceptional dexterous manipulation conveying clear agency. The absence of overt facial features yet strong 'aliveness' through upper-body kinetics highlights how motion dexterity can establish emotional baseline and companionship. For our target form factors: wheeled/kinetic base for proactive positioning as 'stay/act' cues; subtle arm/hand micro-gestures synchronized with ambient lighting pulses for empathy signaling; restrained withdrawal motions post-task to embody 'withdraw' and uninterrupted state.\n\n[KR] North의 강점은 Layer 2(Motion & Physical Behavior)에서 탁월한 덱스터러스 조작으로 미묘·정밀 움직임 통해 명확한 agency와 의도 전달. 명확한 얼굴 특징 없어도 상체 키네틱만으로 강한 '살아있음' 인식 → 인류형 cues 없이 모션 덱스터리티가 emotional baseline과 companionship 구축 가능성 강조. 우리 타겟 폼팩터에 적용 시: 'stay/act' cues 주는 휠/키네틱 베이스 프로액티브 포지셔닝; empathy signaling 위한 ambient lighting 펄스와 동기화된 미세 암/핸드 제스처; 작업 후 절제된 후퇴 모션으로 'withdraw'와 uninterrupted state 체현.",
+            "type": "UX Insight"
+          }
+        ]
+      },
+      "images": [
+        "/images/products/sharpa-north/sharpa-north_1.jpg",
+        "/images/products/sharpa-north/sharpa-north_2.jpg",
+        "/images/products/sharpa-north/sharpa-north_3.jpg",
+        "/images/products/sharpa-north/sharpa-north_4.jpg"
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=Sharpa+Robotics+North+CES+2026"
+    },
+    {
+      "id": "embodied-tien-kung",
+      "typeId": "type1",
+      "manufacturer": "X-Humanoid",
+      "name": "Embodied Tien Kung 2.0",
+      "country": "China",
+      "overview": "A mass-market approach to specialized mobility. Tien Kung 2.0 showcases autonomous sorting in logistics with a focus on swarm intelligence—coordinating with other units seamlessly to prevent bottlenecks. It represents the transition from individual robotic tasks to collective robotic flow.\n\n[KR] 특수 기동성을 갖춘 대량 생산형 모델입니다. Tien Kung 2.0은 물류 현장에서의 자율 분류 작업을 선보이며, 병목 현상을 방지하기 위해 다른 유닛들과 매끄럽게 협력하는 '군집 지능(Swarm Intelligence)'에 초점을 맞추고 있습니다. 이는 개별 로봇의 작업이 집단적인 로봇의 흐름으로 전환됨을 의미합니다.",
+      "analysis": {
+        "intro": "Swarm Choreography\n[KR] 군집 안무(Swarm Choreography)",
+        "points": [
+          {
+            "title": "Flow State Movement",
+            "content": "Individual movements are less 'heroic' and more utilitarian, prioritizing flow within a group over individual speed. This predictability reduces collision anxiety for human coworkers.\n\n[KR] 개별 로봇의 움직임은 '영웅적'이기보다 실용적이며, 개별 속도보다는 그룹 전체의 흐름을 우선시합니다. 이러한 예측 가능성은 인간 동료들의 충돌 불안감을 줄여줍니다."
+          },
+          {
+            "title": "Utilitarian Aesthetics",
+            "content": "Exposed carbon fiber and sensor arrays signal raw functionality, setting user expectations for 'work intent' rather than 'social interaction'.\n\n[KR] 노출된 탄소 섬유와 센서 배열은 날것 그대로의 기능성을 드러내며, 사용자로 하여금 '사회적 상호작용'이 아닌 '작업 의도'를 기대하게 만듭니다."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/embodied-tien-kung/embodied-tien-kung_1.webp",
+        "/images/products/embodied-tien-kung/embodied-tien-kung_2.png"
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=Tien+Kung+Humanoid+Robot"
+    },
+    {
+      "id": "figure-ai",
+      "typeId": "type1",
+      "manufacturer": "Figure AI Inc.",
+      "name": "Figure 02 (Gen 2)",
+      "country": "United States",
+      "overview": "Purpose: To address labor shortages by performing human-like physical tasks in real-world environments (initially industrial assembly, logistics, manufacturing) while enabling natural human-robot interaction through speech, vision, and dexterity; long-term vision includes home deployment. Figure 02 is a ground-up redesign: 168 cm, 70 kg, 16 DoF hands (human-like strength), integrated cabling, 50% larger battery (~5+ hours), 6 RGB cameras + onboard VLM for real-time perception/coordination, and OpenAI-powered conversational speech-to-speech. Features triple compute power (dual NVIDIA RTX GPU modules) for full autonomy. Successfully deployed at BMW Spartanburg plant (11 months, 30,000+ vehicles) for sheet-metal handling; retirement learnings inform Figure 03. Commercial shipments began late 2024.\n\n[KR] 제품의 목적: 산업 현장(조립·물류·제조)에서 인간다운 물리 작업 수행으로 노동 부족 해결 및 자연스러운 상호작용(음성·시각·덱스터리티) 구현; 장기적 가정용 목표. 상세 설명: Figure 02는 완전 재설계 모델: 168cm, 70kg, 16 DoF 핸드(인간급 강도), 통합 케이블, 배터리 50% 증대(~5시간+), 6 RGB 카메라 + 온보드 VLM으로 실시간 인식/조정, OpenAI 기반 대화형 음성 기능 탑재. 듀얼 NVIDIA RTX GPU 모듈로 완전 자율 작업 가능. BMW 스 Spartanburg 공장 11개월 실전 배치(시트메탈 핸들링, 3만 대 이상 생산 기여) 후 Figure 03 개발을 위해 퇴역. 2024년 말 상업 출하 시작.",
+      "analysis": {
+        "intro": "Task-Oriented Embodied Intelligence\n[KR] 과업 중심 체화된 지능",
+        "points": [
+          {
+            "title": "Physical AI Insight\n[KR] Physical AI 인사이트",
+            "content": "Figure 02 marks a critical bridge to commercial Physical AI — demonstrating reliable, long-duration autonomous operation in unstructured industrial settings through integrated embodied intelligence. Its conversational capability and real-world durability validate the shift toward 'lived' continuous presence that handles repetitive tasks while maintaining human-level interaction. Learnings form a foundation for revenue-generating workforce evolution.\n\n[KR] Figure 02는 상업용 Physical AI로의 핵심 가교 — 통합된 체화 지능으로 비구조화 산업 환경에서 신뢰할 수 있는 장기 자율 운용 입증. 대화 능력과 실세계 내구성은 반복 작업을 처리하면서도 인간 수준 상호작용을 유지하는 'lived' 연속 존재감 검증. 수익 창출형 노동력으로 진화하는 기반 구축.",
+            "type": "Physical AI Insight"
+          },
+          {
+            "title": "Expression System UX Insight\n[KR] Expression System UX 인사이트",
+            "content": "Figure 02 shines in Layer 2 (Motion & Physical Behavior) — fluid, precise whole-body movements convey clear agency, predictability, and safety legibility, building implicit trust without words. The high-fidelity motion establishes an emotional baseline and companionship in professional contexts. For our targets (Movable TV/Tabletop): legible, human-like micro-motions (slow tilt/nod for listening, subtle retreat for politeness) synced with ambient lighting pulses for mood temperature; restrained, predictable trajectories to embody 'turn-taking politeness' and reduce anxiety. Its industrial restraint inspires 'predictability → trust' via purposeful signaling.\n\n[KR] Figure 02는 Layer 2(Motion & Physical Behavior)에서 빛남 — 유연하고 정밀한 전신 움직임으로 명확한 agency와 safety legibility 전달, 무언의 신뢰 구축. 고품질 모션만으로 전문 맥락에서 emotional baseline과 companionship 형성 가능. 우리 타겟(무빙 TV/테이블탑) 적용: 경청(느린 틸트/끄덕임)이나 정중함(미세 후퇴)을 위한 인간다운 마이크로 모션 + ambient lighting 펄스 동기화; 불안 감소를 위한 절제되고 예측 가능한 궤적. 산업적 절제미는 목적 있는 시그널링을 통한 '예측 가능성 → 신뢰' 구축에 영감.",
+            "type": "UX Insight"
+          }
+        ]
+      },
+      "images": [
+        "/images/products/figure-ai/figure-ai_1.webp"
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=Figure+AI+robot"
+    },
+    {
+      "id": "unitree-g1",
+      "typeId": "type1",
+      "manufacturer": "Unitree",
+      "name": "Unitree G1",
+      "country": "China",
+      "overview": "Emphasizing extreme dynamic mobility and affordability. The G1 is capable of acrobatic recovery and high-speed running, pushing the boundaries of dynamic balance. It represents the democratization of humanoid research hardware.\n\n[KR] 극한의 역동적 기동성과 가격 경쟁력을 강조하는 모델입니다. G1은 공중제비 후 착지와 같은 곡예 수준의 회복 능력과 고속 주행이 가능하여 동적 균형의 한계를 넓혔습니다. 이는 휴머노이드 연구 하드웨어의 대중화를 상징합니다.",
+      "analysis": {
+        "intro": "Acrobatic Resilience\n[KR] 곡예적 회복탄력성",
+        "points": [
+          {
+            "title": "Recovery UX",
+            "content": "The ability to stand up instantly from a fall changes the perception of 'fragility' usually associated with robots, building trust in rugged environments.\n\n[KR] 넘어졌을 때 즉시 일어나는 능력은 로봇에 대한 '연약하다'는 고정관념을 깨고, 거친 환경에서도 신뢰할 수 있음을 보여줍니다."
+          },
+          {
+            "title": "Compact Folding",
+            "content": "Can fold itself into a compact storage mode, acknowledging that robots need to 'disappear' when not in use to save human space.\n\n[KR] 사용하지 않을 때는 작게 접어 보관할 수 있어, 인간의 공간을 절약하고 로봇이 필요 없을 때 '사라져 주는' 배려를 보여줍니다."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/unitree-g1/unitree-g1_1.png"
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=Unitree+G1+Humanoid"
+    },
+    {
+      "id": "agility-digit",
+      "typeId": "type1",
+      "manufacturer": "Agility Robotics",
+      "name": "Digit",
+      "country": "USA",
+      "overview": "The logistic veteran. Digit's backward-jointed legs and headless design focus purely on lifting and moving boxes, now updated with better human-sensing for crowded warehouses. It prioritizes function over form to maximize vertical stacking efficiency.\n\n[KR] 물류 로봇의 베테랑입니다. Digit의 역관절 다리와 머리 없는 디자인은 오로지 상자를 들어 옮기는 기능에 집중되어 있으며, 붐비는 창고 내에서의 인간 감지 센서가 개선되었습니다. 형태보다는 기능을 우선시하여 수직 적재 효율을 극대화했습니다.",
+      "analysis": {
+        "intro": "Form Follows Function\n[KR] 형태는 기능을 따른다",
+        "points": [
+          {
+            "title": "Bird-Like Gait",
+            "content": "The reverse-knee design is biologically distinct, preventing the 'Uncanny Valley' effect by not trying to be overly human. It signals 'machine' immediately.\n\n[KR] 새처럼 꺾인 무릎 디자인은 생물학적으로 독특하여, 과도하게 인간을 흉내 내지 않음으로써 '불쾌한 골짜기' 효과를 방지합니다. 즉각적으로 '기계임'을 신호합니다."
+          },
+          {
+            "title": "Torso Signaling",
+            "content": "Uses LED patterns on the chest to indicate direction and status, replacing facial expressions with clear industrial signaling legible from a distance.\n\n[KR] 가슴의 LED 패턴을 사용해 이동 방향과 상태를 표시하며, 표정 대신 멀리서도 식별 가능한 명확한 산업 신호를 제공합니다."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/agility-digit/agility-digit_1.jpg"
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=Agility+Robotics+Digit"
+    },
+    {
+      "id": "apptronik-apollo",
+      "typeId": "type1",
+      "manufacturer": "Apptronik",
+      "name": "Apollo",
+      "country": "USA",
+      "overview": "Designed for the 'human world'. Apollo has a friendly, accessible aesthetic with safety-first force control, meant to work shoulder-to-shoulder with people in factories.",
+      "analysis": {
+        "intro": "Collaborative Safety",
+        "points": [
+          {
+            "title": "Digital Face Information",
+            "content": "The face screen displays battery and task status, treating the 'face' as an information radiator rather than just an identity."
+          },
+          {
+            "title": "Soft Stop",
+            "content": "Movement deceleration curves are tuned to be smooth, avoiding jerky stops that startle nearby humans."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/apptronik-apollo/apptronik-apollo_1.png"
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=Apptronik+Apollo"
+    },
+    {
+      "id": "sanctuary-phoenix",
+      "typeId": "type1",
+      "manufacturer": "Sanctuary AI",
+      "name": "Phoenix",
+      "country": "Canada",
+      "overview": "The hands have it. Phoenix boasts the world's most human-like hands with tactile sensors, capable of buttoning shirts or using standard tools.",
+      "analysis": {
+        "intro": "Tactile Intelligence",
+        "points": [
+          {
+            "title": "Grasp Adaptation",
+            "content": "Visibly adjusts grip strength and finger positioning before exploring an object, mimicking human 'exploratory touch'."
+          },
+          {
+            "title": "Teleoperation Legacy",
+            "content": "Movement has a fluidity derived from human-teleoperated training data, making it feel less algorithmic."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/sanctuary-phoenix/sanctuary-phoenix_1.jpg"
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=Sanctuary+AI+Phoenix"
+    },
+    {
+      "id": "1x-neo",
+      "typeId": "type1",
+      "manufacturer": "1X Technologies",
+      "name": "NEO",
+      "country": "Norway",
+      "overview": "A humanoid for the home. NEO uses soft outer layers and muscle-like actuation to be safe enough to hug, targeting the domestic assistance market.",
+      "analysis": {
+        "intro": "Soft Robotics UX",
+        "points": [
+          {
+            "title": "Huggable Physics",
+            "content": "The absence of pinch points and hard shells invites physical contact, breaking the 'do not touch' barrier of traditional robotics."
+          },
+          {
+            "title": "Silent Operation",
+            "content": "Near-silent movement ensures it doesn't dominate the home soundscape, respecting acoustic privacy."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/1x-neo/1x-neo_1.webp"
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=1X+Technologies+NEO"
+    },
+    {
+      "id": "unitree-h2",
+      "typeId": "type1",
+      "manufacturer": "Unitree",
+      "name": "H2",
+      "country": "China",
+      "overview": "Unitree's universal humanoid agent designed for industrial and general-purpose applications. It features high torque density and dynamic balancing capabilities.\n\n[KR] 산업 및 범용 애플리케이션을 위해 설계된 유니트리의 범용 휴머노이드 에이전트입니다. 높은 토크 밀도와 동적 균형 능력을 특징으로 합니다.",
+      "analysis": {
+        "intro": "Universal Stability\n[KR] 보편적 안정성",
+        "points": [
+          {
+            "title": "Dynamic Recovery",
+            "content": "Instantly recovers from external impacts, maintaining balance in unpredictable environments.\n\n[KR] 외부 충격으로부터 즉시 회복하여 예측 불가능한 환경에서도 균형을 유지합니다."
+          },
+          {
+            "title": "High-Torque Efficiency",
+            "content": "Proprietary motors deliver exceptional power-to-weight ratio, allowing for agile movement carrying heavy payloads.\n\n[KR] 독자적인 모터 기술로 뛰어난 중량 대비 출력을 제공, 무거운 짐을 들고도 민첩하게 움직일 수 있습니다."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/unitree-h2/unitree-h2_1.webp"
+      ],
+      "videoUrl": ""
+    },
+    {
+      "id": "gene-01",
+      "typeId": "type1",
+      "manufacturer": "Generative Bionics",
+      "name": "Gene.01",
+      "country": "United States",
+      "overview": "Purpose: To pioneer 'living-like' physical AI through generative bio-mimicry — creating robots that evolve form, texture, and expression organically like biological organisms, with primary focus on deep emotional presence, trust-building through natural fluidity, and non-verbal affective communication for human-robot symbiosis in caregiving, companionship, and intimate environments. At CES 2026, Generative Bionics demonstrated Gene.01 as a ~1.6m tall, soft-bodied humanoid with generative silicone-polymer skin capable of dynamic texture/color change (smooth → wrinkled → rippled), fluid muscle-like actuators (no rigid joints, 40+ pseudo-DoF), embedded pneumatic/hydraulic systems for breathing-like chest rise/fall, and micro-LED under-skin lighting for subsurface glow. The robot uses on-device generative AI (custom diffusion models) to evolve micro-expressions, posture, and skin patterns in real-time based on human emotional cues. Live demos: gentle 'embrace' simulation with soft enveloping arms, breathing synchronization with user, skin rippling in 'excitement' or 'calm waves'. No spoken language — all communication via body language, breathing rhythm, skin texture, and glow patterns.\n\n[KR] 제품의 목적: 생성 생체모방으로 '살아있는 듯한' Physical AI 개척 — 생물처럼 형태·질감·표현이 유기적으로 진화하는 로봇 구현, 주요 초점은 깊은 감정 존재감, 자연스러운 유연함으로 신뢰 구축, 비언어 affective 커뮤니케이션으로 돌봄·컴패니언십·친밀 환경에서의 인간-로봇 공생. 상세 설명: CES 2026에서 ~1.6m 높이 소프트 바디 휴머노이드 Gene.01 시연 — 동적 질감/컬러 변화 가능한 생성 실리콘-폴리머 스킨(매끄러움 → 주름 → 물결), 경직 관절 없는 유연 근육-like 액추에이터(40+ 의사 DoF), 흉부 상승/하강 호흡 시뮬레이션 내장 공압/유압 시스템, 피부 아래 마이크로 LED로 subsurface glow. 온디바이스 생성 AI로 인간 감정 cues 실시간 반영해 마이크로 표현·자세·스킨 패턴 진화. 라이브 데모: 부드럽게 감싸는 팔 '포옹', 사용자와 호흡 동기화, 상호작용 중 '흥분' 물결 또는 '차분 파도' 스킨 변화. 말 전혀 사용 안 함 — 전부 바디 랭귀지·호흡 리듬·스킨 질감·glow 패턴으로 소통.",
+      "analysis": {
+        "intro": "Generative Embodied Affective Intelligence\n[KR] 생성형 체화 Affective 지능",
+        "points": [
+          {
+            "title": "Physical AI Insight\n[KR] Physical AI 인사이트",
+            "content": "Gene.01 represents the frontier of 'generative embodied affective intelligence' — using bio-mimetic soft materials and generative AI to create truly organic, evolving physical presence that transcends rigid robotics. Its subsurface lighting, breathing mechanics, and adaptive skin prove that the most profound non-verbal emotional connection comes from biological mimicry rather than anthropomorphic faces or scripted motion. This pushes Physical AI toward 'lived' continuity through constant subtle evolution, directly aligning with our project's emphasis on 'continuous,' 'physical,' and 'lived' life attributes.\n\n[KR] Gene.01은 '생성형 체화 affective 지능' 최전선 — 생체모방 소프트 소재와 생성 AI로 경직 로보틱스 초월하는 진정 유기적·진화하는 물리 존재감 구현. subsurface lighting·호흡 메커니즘·적응 스킨은 가장 깊은 비언어 감정 연결이 인류형 얼굴이나 스크립트 모션 아닌 생물학적 모방에서 나온다는 증명. 지속적 미묘 진화로 'lived' 연속성 실현, 우리 프로젝트의 'continuous'·'physical'·'lived' 속성 직접 정렬.",
+            "type": "Physical AI Insight"
+          },
+          {
+            "title": "Expression System UX Insight\n[KR] Expression System UX 인사이트",
+            "content": "Gene.01 offers the most advanced vision for our Expression System — especially in Lighting & Ambient + Motion & Physical Behavior layers through bio-generative means. Core breakthroughs: Subsurface generative glow (under-skin micro-LED patterns) creates living, breathing mood temperature without external LEDs — skin itself becomes the ambient expression canvas (warm subsurface blush for affection, cool rippling waves for calm, pulsing heartbeat glow for excitement); soft, fluid whole-body motion (no rigid joints) delivers unparalleled agency and empathy cues through enveloping arms, gentle chest rise/fall breathing sync, organic wavelike skin ripples; adaptive skin texture (smooth → soft wrinkled → rippled) provides non-verbal emotional peak via tactile feedback alone. For our targets (Movable TV/Tabletop): implement gradient subsurface-style ambient lighting (multi-layer OLED/transparent panels) for 'blush' or 'wave' effects; design ultra-soft, fluid kinetic joints for enveloping, breathing-like motions; use projection mapping for adaptive skin texture changes; focus on biological mimicry in long-term behavior with subtle continuous evolution.\n\n[KR] Gene.01은 우리 Expression System에 대한 가장 앞선 비전 — 특히 Lighting & Ambient + Motion & Physical Behavior 레이어를 생체 생성 방식으로 완성. 핵심 혁신: Subsurface generative glow(피부 아래 마이크로 LED 패턴)로 외부 LED 없이 살아 숨쉬는 mood temperature 구현 — 스킨 자체가 ambient 표현 캔버스; 소프트·유연 전신 모션(경직 관절 없음)으로 최고 수준 agency·empathy cues; 적응형 스킨 질감으로 촉각만으로 비언어 emotional peak. 우리 타겟(무빙 TV/테이블탑) 적용: 멀티레이어 OLED/투명 패널로 gradient subsurface-style ambient lighting; 소프트 액추에이터로 ultra-soft 유연 키네틱 조인트; projection mapping으로 적응 스킨 질감 변화; 장기 행동에 생체모방 집중.",
+            "type": "UX Insight"
+          }
+        ]
+      },
+      "images": [
+        "/images/products/gene-01/gene-01_1.png",
+        "/images/products/gene-01/gene-01_2.png",
+        "/images/products/gene-01/gene-01_3.png"
+      ],
+      "videoUrl": ""
+    },
+    {
+      "id": "switchbot-onero-h1",
+      "typeId": "type1",
+      "manufacturer": "SwitchBot",
+      "name": "Onero H1",
+      "country": "China",
+      "overview": "Purpose: To serve as an 'accessible' embodied AI household assistant that automates difficult-to-automate chores (laundry loading/folding, dish handling, object manipulation, window cleaning, serving items) while integrating with existing SwitchBot ecosystem as a coordinator; aims to reduce daily physical labor with practical, learnable, on-device intelligence. At CES 2026, SwitchBot demoed the Onero H1 as a ~1.3m tall wheeled humanoid with 22 DoF articulated arms, RealSense cameras for vision/navigation, tactile feedback, and proprietary OmniSense VLA (Vision-Language-Action) on-device model for object recognition, grasping, pushing, opening, organizing. Live booth showed slow but deliberate laundry loading. Promotional videos expand to: filling coffee machine, making/serving breakfast, washing windows, dish loading, folding clothes. Designed to learn/adapt via demonstration, coordinate with specialized SwitchBot robots. Pre-orders planned post-CES, shipping late 2026 (rumored ~$1,500–$10,000 range).\n\n[KR] 제품의 목적: 세탁 로딩/접기·식기 처리·물건 조작·창문 청소·아이템 서빙 등 자동화 어려운 가사 작업 수행하는 '접근성 높은' 체화 AI 가정 어시스턴트; 기존 SwitchBot 에코시스템과 통합하여 코디네이터 역할, 실용적·학습 가능 온디바이스 지능으로 일상 물리 노동 감소 목표. 상세 설명: CES 2026에서 ~1.3m 높이 휠 휴머노이드 Onero H1 시연 — 관절 암 22 DoF, RealSense 카메라·촉각 피드백, 독자 OmniSense VLA 온디바이스 모델로 물건 인식·그라스핑·푸시·오픈·정리. 부스 라이브: 소파 옷 개별 집기 → 세탁기 열기 → 넣기 → 닫기 (느리지만 의도적). 프로모 비디오 확장: 커피머신 채우기·아침 식사 만들기/서빙·창문 청소·식기 로딩·옷 접기. 데모 통해 학습·적응, 전문 SwitchBot 로봇과 협력 설계. CES 후 선주문 예정, 2026년 말 출시 (추정 $1,500~$10,000).",
+      "analysis": {
+        "intro": "Practical Embodied AI & Ecosystem Orchestration\n[KR] 실용적 체화 AI 및 에코시스템 오케스트레이션",
+        "points": [
+          {
+            "title": "Physical AI Insight\n[KR] Physical AI 인사이트",
+            "content": "Onero H1 represents 'practical embodied AI' for mass-market homes — wheeled mobility + articulated arms + on-device VLA enable contact-heavy, adaptive tasks in real environments without full bipedal complexity. Its ecosystem orchestration (controlling other devices) and learning-by-demonstration shift Physical AI from isolated performers to collaborative 'lived' helpers in continuous home life. Slow but reliable demo performance highlights the value of predictability and safety over flashy speed, aligning with 'continuous' and 'lived' attributes in unstructured daily routines.\n\n[KR] Onero H1은 대중 가정용 '실용적 체화 AI' 대표 — 휠 모빌리티 + 관절 암 + 온디바이스 VLA로 비구조화 실환경 접촉 중심 적응 작업 가능, 완전 이족 복잡성 없이. 에코시스템 오케스트레이션(다른 기기 제어)과 데모 학습으로 Physical AI를 독립 수행자에서 협력적 'lived' 헬퍼로 전환. 느리지만 안정적 데모는 flashy 속도보다 predictability·safety 가치 강조, 비구조 일상 루틴의 'continuous'·'lived' 속성과 부합.",
+            "type": "Physical AI Insight"
+          },
+          {
+            "title": "Expression System UX Insight\n[KR] Expression System UX 인사이트",
+            "content": "Onero H1 demonstrates Layer 2 (Motion & Physical Behavior) excellence — deliberate, slow, legible arm trajectories (careful grasping, gentle door opening/closing) convey safety legibility, predictability, and agency without words, reducing user anxiety in shared physical spaces. The wheeled base enables smooth 'stay/act/withdraw' (approach to task area = act, retreat after completion = withdraw). While minimal face/expressive features, the purposeful motion alone builds implicit trust through 'reliability over time.' For our targets (Movable TV/Tabletop): adopt deliberate, predictable kinetic patterns (slow extensions, gentle speed ramps) for agency and safety legibility; sync ambient lighting with motion phases (steady calm glow during approach = emotional baseline, subtle pulse on task completion = satisfaction); use restrained pause or lean micro-behaviors as non-verbal empathy cues; emphasize ecosystem coordination for context continuity across multiple form factors.\n\n[KR] Onero H1은 Layer 2(Motion & Physical Behavior) 우수성 보여줌 — 의도적·느린·가독성 높은 암 궤적(신중한 그라스핑, 부드러운 도어 오픈/클로즈)으로 말 없이 safety legibility·predictability·agency 전달, 공유 물리 공간 불안 감소. 휠 베이스로 부드러운 stay/act/withdraw 구현. overt 얼굴/표현 최소하나 목적 지향 모션만으로 신뢰 축적. 우리 타겟(무빙 TV/테이블탑) 적용: 의도적·예측 가능 키네틱 패턴(느린 확장, gentle 속도 램프)으로 agency·safety legibility; 모션 단계 연동 ambient lighting (접근 중 steady calm glow = emotional baseline, 작업 완료 시 미세 펄스 = 만족); 행동 전/후 restrained pause·lean 마이크로 행동으로 비언어 empathy cues; 에코시스템 코디네이션으로 다중 폼팩터 context continuity.",
+            "type": "UX Insight"
+          }
+        ]
+      },
+      "images": [
+        "/images/products/switchbot-onero-h1/switchbot-onero-h1_1.png",
+        "/images/products/switchbot-onero-h1/switchbot-onero-h1_2.png",
+        "/images/products/switchbot-onero-h1/switchbot-onero-h1_3.png"
+      ],
+      "videoUrl": ""
+    },
+    {
+      "id": "pollen-reachy",
+      "typeId": "type1",
+      "manufacturer": "Pollen Robotics",
+      "name": "Reachy 2",
+      "country": "France",
+      "overview": "Purpose: To democratize expressive physical AI through an affordable, fully open-source humanoid platform — enabling developers, researchers, educators, and creators to prototype affective, non-verbal interactions, social robotics experiments, and emotional companionship in real-world settings; emphasizes natural, lively presence over task performance. At CES 2026, Pollen Robotics demonstrated Reachy 2 with significant upgrades: improved neck/head mobility (7 DoF for fluid gaze/head tilts), high-res OLED eyes for rich micro-expressions (blinking, squinting, joyful sparkles, sad droop), animated antennas that act as 'emotional ears' (perking up, drooping, wagging), soft silicone-covered arms with tendon-driven actuation for gentle, organic movements, built-in microphones/speakers, and ROS2-based open-source stack for easy customization. Live demos focused on pure non-verbal expressivity: Reachy 'listening' with curious head tilt + perked antennas, 'excited' waving with sparkling eyes, 'shy' antenna droop + slow blink, 'breathing' subtle chest rise. No voice used in main demo — all emotion through body language, gaze, and antenna behavior. Fully open hardware/software (CAD files, firmware, Python SDK), priced ~€4,500–€6,000 for full kit.\n\n[KR] 제품의 목적: 저렴하고 완전 오픈소스 휴머노이드 플랫폼으로 표현력 있는 Physical AI 대중화 — 개발자·연구자·교육자·크리에이터가 affective·비언어 상호작용, 소셜 로보틱스 실험, 감정 컴패니언십 실세계 프로토타이핑 가능; 작업 수행보다 자연스럽고 생동감 있는 존재감 초점. 상세 설명: CES 2026에서 Pollen Robotics는 Reachy 2 업그레이드 시연: 향상된 목/헤드 모빌리티(7 DoF로 유연 시선·헤드 틸트), 풍부 마이크로 표현용 고해상도 OLED 눈(깜박임·눈 찡긋·기쁨 반짝임·슬픈 처짐), '감정 귀' 역할 애니메이션 안테나(쫑긋·처짐·흔들림), 부드럽고 유기적 움직임을 위한 텐던 구동 실리콘 커버 암, 내장 마이크/스피커, ROS2 기반 완전 오픈소스 스택. 라이브 데모 순수 비언어 표현성 집중: 호기심 헤드 틸트 + 쫑긋 안테나로 '경청', 반짝이는 눈 + 손 흔들기로 '흥분', 처진 안테나 + 느린 깜박임으로 '수줍음', 미세 흉부 상승으로 '호흡'. 메인 데모에서 음성 사용 안 함 — 전부 바디 랭귀지·시선·안테나 행동으로 감정 전달. 하드웨어/소프트웨어 완전 오픈(CAD 파일·펌웨어·Python SDK), 풀 키트 약 €4,500~€6,000.",
+      "analysis": {
+        "intro": "Open Expressive Physical AI\n[KR] 오픈 표현 Physical AI",
+        "points": [
+          {
+            "title": "Physical AI Insight\n[KR] Physical AI 인사이트",
+            "content": "Reachy 2 exemplifies 'open expressive Physical AI' — prioritizing non-verbal emotional legibility through minimal yet highly tunable hardware (antennas, eyes, soft arms) and full open-source accessibility. Its focus on curiosity, playfulness, and subtle social cues demonstrates how Physical AI can create 'lived' companionship through organic, developer-extensible behaviors rather than proprietary black-box systems. This aligns perfectly with our project's emphasis on 'continuous,' 'lived,' and 'physical' presence, showing that affective depth thrives on transparency, customizability, and natural micro-expressions.\n\n[KR] Reachy 2는 '오픈 표현 Physical AI' 전형 — 최소지만 고도로 튜닝 가능한 하드웨어(안테나·눈·소프트 암)와 완전 오픈소스 접근성으로 비언어 감정 가독성 최우선. 호기심·장난·미묘 사회적 신호 초점으로 Physical AI가 독점 블랙박스 아닌 유기적·개발자 확장 가능 행동 통해 'lived' 컴패니언십 창출 가능성 증명. 이는 우리 프로젝트의 'continuous'·'lived'·'physical' 존재감 강조와 완벽 정렬, affective 깊이가 투명성·커스터마이징·자연 마이크로 표현에서 나온다는 교훈.",
+            "type": "Physical AI Insight"
+          },
+          {
+            "title": "Expression System UX Insight\n[KR] Expression System UX 인사이트",
+            "content": "Reachy 2 is one of the cleanest, most inspiring references for our entire Expression System — a textbook example of how minimal, tunable non-verbal elements can generate profound emotional resonance. Core principles: Animated antennas as 'emotional ears' (perking = curiosity, drooping = sadness, wagging = excitement) prove simple appendage-like elements can serve as powerful social signaling tools; high-res OLED eyes + micro-expressions create rich empathy peak through blinking patterns, gaze direction, sparkles/droops; soft tendon-driven arms + gentle breathing deliver fluid, organic motion for agency and mood temperature; open-source extensibility allows behaviors to evolve via community input. For our targets (Movable TV/Tabletop): add 'emotional antenna/ear' kinetic appendages for curiosity/perk-up cues and playful social signaling; use circular high-res OLED or transparent display for Reachy-style expressive eyes as primary empathy peak; implement soft, tendon-like kinetic joints for fluid, organic movements synced with ambient lighting breathing pulses; design open-ended expression framework for evolving micro-behaviors over time, embodying attachment and continuous relationship growth.\n\n[KR] Reachy 2는 우리 전체 Expression System의 가장 깔끔하고 영감 넘치는 참조 — 최소·튜닝 가능한 비언어 요소로 깊은 감정 공명을 창출하는 교과서적 사례. 핵심 원칙: 애니메이션 안테나 '감정 귀'(호기심 쫑긋·슬픔 처짐·흥분 흔들림)로 강력 social signaling 가능 증명; 고해상도 OLED 눈 + 마이크로 표현으로 풍부 empathy peak; 소프트 텐던 암 + gentle 호흡으로 유연 유기적 모션; 오픈소스 확장성으로 커뮤니티 입력 통해 행동 진화. 우리 타겟(무빙 TV/테이블탑) 적용: 호기심 쫑긋·장난 social signaling 위한 '감정 안테나/귀' 모듈형 키네틱 부속물; 원형 고해상도 OLED로 Reachy 스타일 표현 눈 empathy peak 핵심; 소프트 텐던-like 키네틱 조인트 + ambient lighting breathing 펄스 동기화; 장기 관계 성장 위한 오픈 엔디드 표현 프레임워크 설계.",
+            "type": "UX Insight"
+          }
+        ]
+      },
+      "images": [
+        "/images/products/pollen-reachy/pollen-reachy_1.png",
+        "/images/products/pollen-reachy/pollen-reachy_2.png"
+      ],
+      "videoUrl": ""
+    },
+    {
+      "id": "fourier-gr1",
+      "typeId": "type1",
+      "manufacturer": "Fourier Intelligence",
+      "name": "GR-1",
+      "country": "China",
+      "overview": "A rehabilitation-focused humanoid that applies medical exoskeleton technology to a full-body autonomous form.\n\n[KR] 의료용 외골격 기술을 전신 자율 형태에 적용한 재활 중심 휴머노이드입니다.",
+      "analysis": {
+        "intro": "Medical Heritage\n[KR] 의료 기술의 유산",
+        "points": [
+          {
+            "title": "Assistive Strength",
+            "content": "Capable of supporting human weight for transfer tasks (bed to wheelchair) with medical-grade safety constraints.\n\n[KR] 의료 등급의 안전 제약 조건 하에 환자 이송(침대에서 휠체어로) 등 인간의 체중을 지탱할 수 있는 힘을 갖췄습니다."
+          },
+          {
+            "title": "Force Transparency",
+            "content": "The joints can become compliant, allowing humans to guide the robot's limbs easily for teaching or positioning.\n\n[KR] 관절의 유연성을 높여 인간이 로봇의 팔다리를 쉽게 움직여 동작을 가르치거나 위치를 잡을 수 있습니다."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/fourier-gr1/fourier-gr1_1.webp"
+      ],
+      "videoUrl": ""
+    },
+    {
+      "id": "wirobotics-allex",
+      "typeId": "type1",
+      "manufacturer": "WIRobotics",
+      "name": "ALLEX",
+      "country": "South Korea",
+      "overview": "Born from wearable robotics expertise, ALLEX focuses on human-robot synergy and gait assistance patterns applied to autonomous locomotion.\n\n[KR] 웨어러블 로봇 기술의 노하우에서 탄생한 ALLEX는 인간-로봇 시너지와 보행 보조 패턴을 자율 이동에 적용했습니다.",
+      "analysis": {
+        "intro": "Synergistic Motion\n[KR] 시너지 움직임",
+        "points": [
+          {
+            "title": "Biomimetic Gait",
+            "content": "Walking patterns are derived from human gait analysis, appearing natural and non-threatening in crowds.\n\n[KR] 인간 보행 분석에서 도출된 걷기 패턴은 군중 속에서도 자연스럽고 위협적이지 않게 보입니다."
+          },
+          {
+            "title": "Lightweight Frame",
+            "content": "Utilizes hollow-structure design for extreme lightness, making it safer for accidental collisions.\n\n[KR] 중공 구조 설계를 통해 극도로 가벼운 무게를 구현, 충돌 사고 시에도 안전합니다."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/wirobotics-allex/wirobotics-allex_1.webp"
+      ],
+      "videoUrl": ""
+    },
+    {
+      "id": "keenon-xman",
+      "typeId": "type1",
+      "manufacturer": "Keenon Robotics",
+      "name": "XMAN-R1",
+      "country": "China",
+      "overview": "A dedicated hospitality humanoid designed to navigate tight restaurant aisles and interact with diners with polished etiquette.\n\n[KR] 좁은 레스토랑 통로를 이동하며 세련된 매너로 식사객과 상호작용하도록 설계된 접객 전용 휴머노이드입니다.",
+      "analysis": {
+        "intro": "Service Etiquette\n[KR] 서비스 에티켓",
+        "points": [
+          {
+            "title": "Tray Stability",
+            "content": "Active stabilization keeps fluids in glasses perfectly still even during rapid turns or stops.\n\n[KR] 능동형 안정화 기술은 급회전이나 정지 중에도 유리잔의 액체를 완벽하게 고요하게 유지합니다."
+          },
+          {
+            "title": "Bowing Mechanics",
+            "content": "Incorporates varying degrees of bowing to respect cultural norms in hospitality.\n\n[KR] 접객 문화의 규범을 존중하기 위해 상황에 따라 다양한 각도의 인사 동작을 수행합니다."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/keenon-xman/keenon-xman_1.webp"
+      ],
+      "videoUrl": ""
+    },
+    {
+      "id": "agibot-expedition",
+      "typeId": "type1",
+      "manufacturer": "Agibot",
+      "name": "Expedition A2",
+      "country": "China",
+      "overview": "Agibot's Expedition A2 is designed for dynamic exploration with bipedal agility suitable for uneven terrain.\n\n[KR] Agibot의 Expedition A2는 고르지 않은 지형에 적합한 이족 보행 민첩성을 갖춘 동적 탐사를 위해 설계되었습니다.",
+      "analysis": {
+        "intro": "Terrain Adaptation\n[KR] 지형 적응",
+        "points": [
+          {
+            "title": "Ankle Compliance",
+            "content": "Advanced ankle joints adjust to micro-variations in ground level, ensuring stability without slowing down.\n\n[KR] 고급 발목 관절은 지면 높이의 미세한 변화에 맞춰 조정되어 속도를 늦추지 않고도 안정성을 보장합니다."
+          },
+          {
+            "title": "Gait Transition",
+            "content": "Seamlessly switches between walking and running modes based on urgency and terrain complexity.\n\n[KR] 긴급성과 지형 복잡성에 따라 걷기 모드와 달리기 모드를 매끄럽게 전환합니다."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/agibot-expedition/agibot-expedition_1.png"
+      ],
+      "videoUrl": ""
+    },
+    {
+      "id": "ubtech-walker-s2",
+      "typeId": "type1",
+      "manufacturer": "UBTECH",
+      "name": "Walker S2",
+      "country": "China",
+      "overview": "An industrial-grade humanoid optimized for the automotive assembly line, Walker S2 demonstrates high-precision handling and quality inspection capabilities.\n\n[KR] 자동차 조립 라인에 최적화된 산업용 휴머노이드 Walker S2는 정밀 핸들링 및 품질 검사 능력을 보여줍니다.",
+      "analysis": {
+        "intro": "Line Precision\n[KR] 라인 정밀도",
+        "points": [
+          {
+            "title": "Soft Manipulation",
+            "content": "Visual-tactile feedback allows it to handle delicate car parts (like logos or soft trim) without scratching.\n\n[KR] 시각-촉각 피드백을 통해 로고나 부드러운 내장재 같은 섬세한 자동차 부품을 긁힘 없이 다룰 수 있습니다."
+          },
+          {
+            "title": "Synchronized Cycle",
+            "content": "Works in perfect sync with conveyor belts, adapting its speed to the line pace autonomously.\n\n[KR] 컨베이어 벨트와 완벽하게 동기화되어 라인 속도에 맞춰 스스로 속도를 조절합니다."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/ubtech-walker-s2/ubtech-walker-s2_1.webp"
+      ],
+      "videoUrl": ""
+    },
+    {
+      "id": "mentee-bot",
+      "typeId": "type1",
+      "manufacturer": "Mentee Robotics",
+      "name": "Mentee Bot",
+      "country": "Israel",
+      "overview": "An AI-first humanoid that uses end-to-end learning for all its tasks, moving away from hard-coded control logic.\n\n[KR] 하드 코딩된 제어 논리에서 벗어나 모든 작업에 엔드 투 엔드 학습을 사용하는 AI 우선 로봇입니다.",
+      "analysis": {
+        "intro": "Pure Learning\n[KR] 순수 학습",
+        "points": [
+          {
+            "title": "Sim-to-Real Transfer",
+            "content": "Trained almost entirely in simulation, its movements have a unique 'organic' quality distinct from traditional robotic programming.\n\n[KR] 시뮬레이션에서 거의 전적으로 훈련된 움직임은 전통적인 로봇 프로그래밍과는 다른 독특한 '유기적' 특징을 가집니다."
+          },
+          {
+            "title": "Instant Imitation",
+            "content": "Can learn new tasks by watching a human perform them once, drastically reducing setup time.\n\n[KR] 인간이 수행하는 것을 한 번 보는 것만으로 새로운 작업을 배울 수 있어 설정 시간을 획기적으로 줄여줍니다."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/mentee-bot/mentee-bot_1.webp"
+      ],
+      "videoUrl": ""
+    },
+    {
+      "id": "galbot",
+      "typeId": "type1",
+      "manufacturer": "Galbot",
+      "name": "Galbot",
+      "country": "China",
+      "overview": "A humanoid focused on dexterous dual-arm manipulation for home and retail environments.\n\n[KR] 가정 및 소매 환경을 위한 양팔의 정교한 조작 능력에 초점을 맞춘 휴머노이드입니다.",
+      "analysis": {
+        "intro": "Dual-Arm Synergy\n[KR] 양팔 시너지",
+        "points": [
+          {
+            "title": "Bimanual Coordination",
+            "content": "Coordinating two hands for complex tasks like folding clothes or opening capped bottles with human-like fluidity.\n\n[KR] 옷을 개거나 뚜껑 있는 병을 여는 것과 같은 복잡한 작업을 위해 두 손을 인간처럼 유연하게 조정합니다."
+          },
+          {
+            "title": "Reach Optimization",
+            "content": "The torso rotates and extends to maximize reach without moving the feet, ideal for cluttered kitchens.\n\n[KR] 발을 움직이지 않고도 몸통을 회전하고 확장하여 도달 범위를 극대화할 수 있어, 복잡한 주방에 이상적입니다."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/galbot/galbot_1.webp"
+      ],
+      "videoUrl": ""
+    },
+    {
+      "id": "engineai-t800",
+      "typeId": "type1",
+      "manufacturer": "ENGINEAI Robotics Technology Co., Ltd.",
+      "name": "ENGINEAI T800",
+      "country": "China",
+      "overview": "Purpose: To serve as a high-performance, deployable universal humanoid platform for real-world industrial, commercial, and high-dynamic applications — emphasizing exceptional torque, stability, and full-body coordination for tasks requiring strength, speed, and precision (e.g., manufacturing, logistics, potential future service/combat demos); positioned as a 'born to disrupt' system bridging lab demos to scalable production. At CES 2026, ENGINEAI showcased the T800 as a ~173 cm tall, high-efficiency humanoid with 29+ degrees of freedom (high-DoF joints in neck/waist/hands), peak torque up to 450 N·m per joint, instantaneous power 14 kW, active cooling in legs, and integrated perception (360° omnidirectional). Live demos highlighted industry-leading dynamic output: martial arts kicks (viral CEO-kick video), running, high-speed stability, heavy load handling. No rigid scripted motions — emphasis on real-time adaptability in high-dynamic scenarios. Mass production ramp-up announced, first shipments mid-2026 (starting ~$25,000 est.), targeting industrial/commercial customers.\n\n[KR] 제품의 목적: 실세계 산업·상업·고동적 애플리케이션 위한 고성능 배포 가능 범용 휴머노이드 플랫폼 — 강도·속도·정밀 요구 작업(제조·물류, 잠재 서비스/전투 데모) 위한 탁월 토크·안정성·전신 코디네이션 강조; 'born to disrupt' 시스템으로 랩 데모에서 대량 생산으로 연결. 상세 설명: CES 2026에서 ~173cm 높이 고효율 휴머노이드 T800 시연 — 목/허리/손 고DoF 관절(29+ 자유도), 관절당 최대 토크 450 N·m, 순간 출력 14 kW, 레그 액티브 쿨링, 360° 전방향 퍼셉션 통합. 라이브 데모 산업 최고 동적 출력 강조: 무술 킥(CEO 킥 바이럴 비디오), 러닝, 고속 안정성, 무거운 로드 핸들링. 경직 스크립트 모션 없음 — 고동적 시나리오 실시간 적응 중점. 대량 생산 램프업 발표, 2026년 중순 첫 출하(추정 ~$25,000 시작), 산업/상업 고객 타겟.",
+      "analysis": {
+        "intro": "High-Dynamic Embodied Physical AI\n[KR] 고동적 체화 Physical AI",
+        "points": [
+          {
+            "title": "Physical AI Insight\n[KR] Physical AI 인사이트",
+            "content": "T800 exemplifies 'high-dynamic embodied Physical AI' for practical deployment — combining extreme torque/power with full-body coordination to handle unstructured, high-force tasks reliably. Its viral real-world demos (CEO kick, no CGI) and mass-production roadmap highlight the shift from spectacle to scalable 'lived' workforce integration, prioritizing predictability, stability, and safety in continuous operation. This reinforces Physical AI's transition toward industrial 'continuous' and 'physical' reliability over lab novelty.\n\n[KR] T800은 실용 배포 위한 '고동적 체화 Physical AI' 전형 — 극한 토크/파워와 전신 코디네이션 결합으로 비구조·고력 작업 안정 처리. 바이럴 실세계 데모(CEO 킥, no CGI)와 대량 생산 로드맵은 spectacle에서 확장 가능한 'lived' 워크포스 통합으로 전환 강조, 지속 운영에서 predictability·stability·safety 우선. Physical AI가 랩 신기함에서 산업 'continuous'·'physical' 신뢰성으로 이동하는 과정 강화.",
+            "type": "Physical AI Insight"
+          },
+          {
+            "title": "Expression System UX Insight\n[KR] Expression System UX 인사이트",
+            "content": "While T800 is task-dominant and industrial-focused, its non-verbal expressivity shines in Layer 2 (Motion & Physical Behavior) through ultra-precise, high-torque yet controlled dynamics — deliberate slowing/pose stabilization before actions conveys safety legibility and predictability, building implicit trust in shared physical spaces. The absence of face/display yet powerful 'aliveness' from fluid whole-body motion proves high-fidelity kinetics alone can establish agency and emotional baseline in high-stakes contexts. For our targets (Movable TV/Tabletop): adopt high-precision, controlled kinetic trajectories (slow ramp-up/down, deliberate pose holds) for agency and safety legibility; sync ambient lighting with motion intensity for mood temperature reinforcement; use restrained pause/stabilize micro-behaviors before/after interactions as non-verbal empathy cues; emphasize predictable recovery/stability in dynamic motion to embody predictability → trust and uninterrupted state.\n\n[KR] T800은 작업 중심 산업 초점이지만 비언어 표현성은 Layer 2(Motion & Physical Behavior)에서 빛남 — 초정밀·고토크지만 제어된 동적 움직임으로 행동 전 의도적 감속/포즈 안정화 통해 말 없이 safety legibility·predictability 전달, 공유 물리 공간에서 암묵적 신뢰 구축. 얼굴/디스플레이 없어도 유연 전신 모션으로 강한 '살아있음' → 고위험 맥락에서 키네틱만으로 agency·emotional baseline 수립 가능성 증명. 우리 타겟(무빙 TV/테이블탑) 적용: 고정밀 제어 키네틱 궤적(느린 램프 업/다운, 의도적 포즈 홀드)으로 agency·safety legibility; 모션 강도 연동 ambient lighting으로 mood temperature 강화; 상호작용 전/후 restrained pause/stabilize 마이크로 행동으로 비언어 empathy cues; 동적 모션에서 예측 가능 회복/안정성 강조로 predictability → trust·uninterrupted state 체현.",
+            "type": "UX Insight"
+          }
+        ]
+      },
+      "images": [
+        "/images/products/engineai-t800/engineai-t800_1.png",
+        "/images/products/engineai-t800/engineai-t800_2.png",
+        "/images/products/engineai-t800/engineai-t800_3.png"
+      ],
+      "videoUrl": ""
+    },
+    {
+      "id": "realbotix",
+      "typeId": "type1",
+      "manufacturer": "Realbotix Corp. (TSX-V: XBOT)",
+      "name": "Aria & David",
+      "country": "USA",
+      "overview": "Purpose: To provide lifelike companionship, emotional engagement, entertainment, and customer service through highly realistic human-robot interaction; designed for long-term relational bonding and personalized social experiences. At CES 2026, Realbotix demonstrated multiple hyper-realistic humanoid robots including female model Aria and new male model David. The highlight was the first public fully autonomous, unscripted, embedded AI conversation between two physical robots (Aria and David) lasting over two hours, conducted in multiple languages (English, Spanish, French, German) without human intervention, scripting, or teleoperation. Robots feature patented silicone skin technology for lifelike appearance, advanced facial actuators for micro-expressions, gesture recognition, voice interaction via the 'Ask Aria' platform, and modular customization (appearance, personality, historical/celebrity replication). Live demos emphasized natural turn-taking, emotional responsiveness, and sustained presence.\n\n[KR] 제품의 목적: 초현실적 인간-로봇 상호작용을 통해 생생한 동반자 관계, 감정적 몰입, 엔터테인먼트 및 고객 서비스 제공; 장기적 관계 형성과 개인화된 사회적 경험 설계. 상세 설명: CES 2026에서 Realbotix는 여성 모델 Aria와 신규 남성 모델 David를 포함한 다수의 초현실적 휴머노이드 로봇을 시연. 최대 하이라이트는 두 물리적 로봇(Aria와 David) 간 완전 자율적·비스크립트 embedded AI 대화로, 인간 개입·스크립트·원격 조작 없이 2시간 이상 지속되며 다국어(영어, 스페인어, 프랑스어, 독일어)로 진행. 특허 실리콘 스킨 기술로 생생한 외형 구현, 마이크로 표현을 위한 고급 얼굴 액추에이터, 제스처 인식, \"Ask Aria\" 플랫폼 기반 음성 상호작용, 모듈러 커스터마이징(외형, 성격, 역사적/유명인 복제) 탑재. 라이브 데모는 자연스러운 턴테이킹, 감정적 반응성, 지속적 존재감을 강조.",
+      "analysis": {
+        "intro": "Hyper-Realistic Humanoid Companion Robot\n[KR] 초현실적 휴머노이드 컴패니언 로봇",
+        "points": [
+          {
+            "title": "Physical AI Insight\n[KR] Physical AI 인사이트",
+            "content": "Realbotix pushes the boundary of 'embodied emotional intelligence' by prioritizing hyper-realistic physical form and on-device AI for prolonged, unscripted interaction. The sustained autonomous conversation demonstrates true contextual continuity and relational depth in Physical AI, moving beyond task-oriented robots toward 'lived' companionship that accumulates trust through repeated, natural micro-interactions. This validates the importance of physical presence for affective bonding in everyday settings.\n\n[KR] Realbotix는 초현실적 물리적 형태와 온디바이스 AI를 우선하여 장기적·비스크립트 상호작용을 실현함으로써 '체화된 감정 지능'의 경계를 확장. 지속적 자율 대화는 Physical AI의 진정한 맥락 연속성과 관계 깊이를 보여주며, 작업 중심 로봇을 넘어 반복적·자연스러운 마이크로 상호작용으로 신뢰를 축적하는 'lived' 컴패니언십으로 진화. 일상 환경에서 affective bonding을 위한 물리적 존재감의 중요성을 입증.",
+            "type": "Physical AI Insight"
+          },
+          {
+            "title": "Expression System UX Insight\n[KR] Expression System UX 인사이트",
+            "content": "Realbotix's strength lies in Layer 3 (Face / Facial Cues) of our Expression System — hyper-realistic micro-expressions, eye gaze, and subtle head movements create powerful empathy cues and emotional peak experiences without words. The autonomous turn-taking and gesture responsiveness embody 'turn-taking politeness' and 'agency' in motion, while sustained presence aligns with 'stay' and 'trust over time' roles. For our target form factors (especially Tabletop Display Lamp & Movable TV), we can adapt: synchronized facial/projection cues with kinetic head orientation for intimate 1:1 gaze; subtle ambient lighting changes tied to emotional state for mood temperature; micro-gesture sequences (nodding, tilting) to signal listening/understanding. Critically, their focus on relational depth over utility reminds us to prioritize 'emotional baseline' and 'attachment' through consistent, non-intrusive physical signaling.\n\n[KR] Realbotix의 강점은 우리 Expression System의 Layer 3(Face / Facial Cues)에 있음 — 초현실적 마이크로 표현, 시선, 미세 머리 움직임으로 강력한 empathy cues와 emotional peak 경험을 무언어로 창출. 자율적 턴테이킹과 제스처 반응성은 모션의 'turn-taking politeness'와 'agency'를 체현하며, 지속적 존재감은 'stay'와 'trust over time' 역할과 부합. 우리 타겟 폼팩터(특히 테이블탑 디스플레이 램프 & 무빙 TV)에 적용 시: 키네틱 헤드 방향 전환과 동기화된 얼굴/프로젝션 cues로 친밀한 1:1 gaze 구현; 감정 상태 연동 미세 ambient lighting 변화로 mood temperature 제공; 경청/이해 신호를 위한 마이크로 제스처 시퀀스(nodding, tilting)로 companionship 강화 및 in-between moments의 인지 부하 감소. 핵심적으로, 유틸리티보다 관계 깊이를 우선하는 그들의 접근은 일관적·비침습적 물리적 시그널링을 통해 'emotional baseline'과 'attachment'을 강조하라는 교훈",
+            "type": "UX Insight"
+          }
+        ]
+      },
+      "images": [
+        "/images/products/realbotix/realbotix_1.png",
+        "/images/products/realbotix/realbotix_2.png"
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=Realbotix+CES+2026+Aria+David"
+    },
+    {
+      "id": "samsung-ai-oled-bot",
+      "typeId": "type2",
+      "manufacturer": "Samsung",
+      "name": "AI OLED Bot",
+      "country": "South Korea",
+      "overview": "A circular, rolling robot with a flexible OLED screen that wraps around its body, displaying information in 360 degrees.\n\n[KR] 본체를 감싸는 유연한 OLED 스크린을 갖춘 원형 구동 로봇으로, 360도로 정보를 표시합니다.",
+      "analysis": {
+        "intro": "Omni-Display\n[KR] 옴니 디스플레이",
+        "points": [
+          {
+            "title": "360 Visibility",
+            "content": "Information is visible from any angle, reducing the need to position the robot precisely.\n\n[KR] 어떤 각도에서든 정보를 볼 수 있어 로봇의 위치를 정확하게 잡을 필요가 줄어듭니다."
+          },
+          {
+            "title": "Emotive Flexibility",
+            "content": "The screen itself bends to create expressions, merging hardware and software into one form.\n\n[KR] 화면 자체가 구부러져 표정을 만들어내며 하드웨어와 소프트웨어를 하나의 형태로 융합합니다."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/samsung-ai-oled-bot/samsung-ai-oled-bot_1.jpg",
+        "/images/products/samsung-ai-oled-bot/samsung-ai-oled-bot_2.jpg",
+        "/images/products/samsung-ai-oled-bot/samsung-ai-oled-bot_3.gif"
+      ],
+      "videoUrl": ""
+    },
+    {
+      "id": "olloni-cyberpet",
+      "typeId": "type2",
+      "manufacturer": "Ollobot",
+      "name": "OlloNi Cyber Pet",
+      "country": "China",
+      "overview": "A next-gen cyber pet focusing on digital evolution. It grows and develops a unique personality based on how you treat it.",
+      "analysis": {
+        "intro": "Digital Evolution",
+        "points": [
+          {
+            "title": "Growth Algorithm",
+            "content": "Unlike static toys, its code rewrites itself to mature over time."
+          },
+          {
+            "title": "Social Linking",
+            "content": "Can play with other OlloNi units nearby."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/olloni-cyberpet/olloni-cyberpet_1.jpg",
+        "/images/products/olloni-cyberpet/olloni-cyberpet_2.jpg",
+        "/images/products/olloni-cyberpet/olloni-cyberpet_3.jpg",
+        "/images/products/olloni-cyberpet/olloni-cyberpet_4.jpg"
+      ],
+      "videoUrl": ""
+    },
+    {
+      "id": "rovar-x3",
+      "typeId": "type2",
+      "manufacturer": "Sentigent Technology (Shentingji)",
+      "name": "Rovar X3",
+      "country": "China",
+      "overview": "Purpose: To serve as a rugged outdoor companion for activities like hiking, walking in parks/neighborhoods, or light adventures; designed to follow owners autonomously over rough terrain, provide emotional interaction (play, sing, dance), and offer basic watch/monitoring, creating joyful, supportive presence in natural environments while enhancing safety and engagement for users. At CES 2026, Sentigent Technology unveiled the compact Rovar X3 as a small, adorable robot optimized for outdoor use — featuring innovative dual-wheel-legged locomotion to navigate grass, trails, stairs, and uneven terrain. Live demos showed it autonomously recognizing/following owners, perceiving surroundings, responding to behaviors naturally, singing/dancing for play, and interacting emotionally (e.g., expressive movements or sounds for affection). It emphasizes durability for light outdoor settings with capabilities like playing engagement, positioning it as an evolution in companion robotics beyond indoor limits.\n\n[KR] 제품의 목적: 하이킹, 공원/동네 산책, 가벼운 아웃도어 활동을 위한 러기드 컴패니언; 거친 지형에서 자율 팔로잉, 감정 상호작용(놀이, 노래, 춤), 기본 감시/모니터링 제공으로 자연 환경에서 즐겁고 지지적인 존재감 창출, 사용자(어린이 포함) 안전 및 몰입 강화. 상세 설명: CES 2026에서 Sentigent Technology는 컴팩트하고 귀여운 Rovar X3를 공개 — 혁신적 듀얼 휠-레그 로코모션으로 잔디, 트레일, 계단, 불균형 지형 탐색. 라이브 데모는 소유자 자율 인식/팔로잉, 주변 인식, 행동 자연 반응, 놀이 위한 노래/춤, 감정 상호작용시연. 가벼운 아웃도어 내구성 강조하며 감시나 장난스러운 몰입 가능, 인도어 한계 넘어 컴패니언 로보틱스 진화로 포지셔닝.",
+      "analysis": {
+        "intro": "Outdoor Hybrid Mobility & Companion AI\n[KR] 아웃도어 하이브리드 모빌리티 및 컴패니언 AI",
+        "points": [
+          {
+            "title": "Physical AI Insight\n[KR] Physical AI 인사이트",
+            "content": "Rovar X3 pioneers affordable, deployable Physical AI for unstructured outdoor environments through hybrid wheel-leg mobility, enabling continuous presence and proactive following without constant commands. Its emotional features (playful responses, natural interaction) shift focus from pure utility to 'lived' companionship in dynamic real-world settings, demonstrating how compact embodied AI can extend human experiences into nature with minimal intrusion while building affective bonds through shared activities.\n\n[KR] Rovar X3는 하이브리드 휠-레그 모빌리티로 비구조화 아웃도어 환경에 저비용·배포 가능 Physical AI 개척, 상시 명령 없이 연속 존재감과 사전적 팔로잉 구현. 감정 기능(장난스러운 반응, 자연 상호작용)은 순수 유틸리티에서 동적 실세계 'lived' 컴패니언십으로 초점 전환, 최소 침습으로 자연 속 인간 경험 확장하며 공유 활동 통해 affective bonds 구축 방식 보여줌.",
+            "type": "Physical AI Insight"
+          },
+          {
+            "title": "Expression System UX Insight\n[KR] Expression System UX 인사이트",
+            "content": "Rovar X3 excels in Layer 2 (Motion & Physical Behavior) with its dual-wheel-leg kinetics conveying lively agency and intent. The adorable, pet-like form combined with singing/dancing micro-behaviors creates strong empathy cues and emotional peak without complex faces. For our target form factors (especially Movable TV): hybrid kinetic locomotion for proactive 'act/stay' in varied home spaces (cross-room following); synchronized ambient lighting with playful gestures for emotional baseline; restrained withdrawal for 'withdraw' and uninterrupted state. This outdoor-to-indoor inspiration pushes our PoC toward joyful, expressive physical dialogue.\n\n[KR] Rovar X3는 Layer 2(Motion & Physical Behavior)에서 듀얼 휠-레그 키네틱으로 생생한 agency와 의도 전달 강점. 귀여운 펫-like 형태와 노래/춤 마이크로 행동으로 복잡 얼굴 없이 강한 empathy cues와 emotional peak 창출, 리듬 움직임으로 'mood temperature' 강조. 우리 타겟 폼팩터(특히 무빙 스타일 TV)에 적용 시: 다양한 홈 공간 프로액티브 'act/stay' 위한 하이브리드 키네틱 로코모션; 장난 제스처와 동기화된 ambient lighting으로 emotional baseline; 사용자 집중 시 거리 유지 절제된 후퇴로 'withdraw'와 uninterrupted state. 이 아웃도어-투-인도어 영감은 PoC를 즐겁고 표현력 있는 물리 대화로 추진.",
+            "type": "UX Insight"
+          }
+        ]
+      },
+      "images": [
+        "/images/products/rovar-x3/rovar-x3_1.jpg",
+        "/images/products/rovar-x3/rovar-x3_2.jpg",
+        "/images/products/rovar-x3/rovar-x3_3.jpg",
+        "/images/products/rovar-x3/rovar-x3_4.jpg"
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=Sentigent+Rovar+X3+CES+2026"
+    },
+    {
+      "id": "roborock-saros",
+      "typeId": "type2",
+      "manufacturer": "Roborock",
+      "name": "Saros Z70",
+      "country": "China",
+      "overview": "A hybrid cleaning robot with a chassis that lifts on wheels to climb obstacles and stairs, redefining mobility.\n\n[KR] 장애물과 계단을 오르기 위해 바퀴로 섀시를 들어 올리는 하이브리드 청소 로봇으로, 이동성을 재정의합니다.",
+      "analysis": {
+        "intro": "Vertical Cleaning\n[KR] 수직 청소",
+        "points": [
+          {
+            "title": "Active Lift",
+            "content": "The entire body lifts up to clear thresholds up to 4cm and climb standard stairs.\n\n[KR] 본체 전체가 들어 올려져 최대 4cm 문턱을 넘고 표준 계단을 오를 수 있습니다."
+          },
+          {
+            "title": "Dual-Camera VSLAM",
+            "content": "Uses stereo cameras to identify furniture types and clean accordingly (e.g., under sofas).\n\n[KR] 스테레오 카메라를 사용하여 가구 유형을 식별하고 그에 맞춰(예: 소파 아래) 청소합니다."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/roborock-saros/roborock-saros_1.jpg",
+        "/images/products/roborock-saros/roborock-saros_2.webp",
+        "/images/products/roborock-saros/roborock-saros_3.webp"
+      ],
+      "videoUrl": ""
+    },
+    {
+      "id": "dreame-cyber-10",
+      "typeId": "type2",
+      "manufacturer": "Dreame",
+      "name": "Cyber 10 Ultra",
+      "country": "China",
+      "overview": "A premium robotic vacuum focused on absolute autonomy with minimal maintenance.\n\n[KR] 최소한의 유지 보수로 완벽한 자율성을 추구하는 프리미엄 로봇 청소기입니다.",
+      "analysis": {
+        "intro": "Zero Maintenance\n[KR] 제로 유지보수",
+        "points": [
+          {
+            "title": "Self-Cleaning Station",
+            "content": "The base station cleans the mop, empties dust, and even cleans itself, reducing human chores to zero.\n\n[KR] 베이스 스테이션이 걸레 세척, 먼지 비움, 심지어 스테이션 자체 청소까지 수행하여 인간의 가사 노동을 제로로 만듭니다."
+          },
+          {
+            "title": "Edge Learning",
+            "content": "Learns the precise contours of furniture over time to clean closer without bumping.\n\n[KR] 시간이 지남에 따라 가구의 정확한 윤곽을 학습하여 부딪힘 없이 더 가까이 청소합니다."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/dreame-cyber-10/dreame-cyber-10_1.jpg",
+        "/images/products/dreame-cyber-10/dreame-cyber-10_2.jpg",
+        "/images/products/dreame-cyber-10/dreame-cyber-10_3.jpg",
+        "/images/products/dreame-cyber-10/dreame-cyber-10_4.jpg"
+      ],
+      "videoUrl": ""
+    },
+    {
+      "id": "dreame-cyber-x",
+      "typeId": "type2",
+      "manufacturer": "Dreame",
+      "name": "Cyber X",
+      "country": "China",
+      "overview": "An experimental corner-cleaning specialist with a unique shape.\n\n[KR] 독특한 형태를 가진 코너 청소 전문 실험 모델입니다.",
+      "analysis": {
+        "intro": "Geometric Clean\n[KR] 기하학적 청소",
+        "points": [
+          {
+            "title": "Square Adaptive Body",
+            "content": "The robot transforms or extends parts of its body to fit perfectly into 90-degree corners.\n\n[KR] 로봇이 90도 코너에 완벽하게 맞도록 차체 일부를 변형하거나 확장합니다."
+          },
+          {
+            "title": "Low Profile",
+            "content": "Ultra-thin design allows it to slip under furniture that standard LIDAR towers block.\n\n[KR] 초박형 디자인으로 표준 라이다 탑이 걸리는 가구 밑으로도 들어갈 수 있습니다."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/dreame-cyber-x/dreame-cyber-x_1.jpg",
+        "/images/products/dreame-cyber-x/dreame-cyber-x_2.jpg"
+      ],
+      "videoUrl": ""
+    },
+    {
+      "id": "narwal-flow-2",
+      "typeId": "type2",
+      "manufacturer": "Narwal",
+      "name": "Flow 2",
+      "country": "China",
+      "overview": "Prioritizing mopping quality with high-speed scrubbing and fresh water cycling.\n\n[KR] 고속 스크러빙과 신선한 물 순환으로 걸레질 품질을 최우선으로 합니다.",
+      "analysis": {
+        "intro": "Hygienic Mopping\n[KR] 위생적 물걸레질",
+        "points": [
+          {
+            "title": "DirtSense",
+            "content": "Sensors detect how dirty the water being sucked up is, automatically re-mopping areas until clean.\n\n[KR] 흡입되는 물의 오염도를 센서가 감지하여 깨끗해질 때까지 자동으로 해당 구역을 다시 닦습니다."
+          },
+          {
+            "title": "Quiet Scrub",
+            "content": "Mechanisms oscillate at high frequencies but low decibels, allowing deep cleaning while you watch TV.\n\n[KR] 높은 진동수지만 낮은 데시벨로 작동하여 TV를 시청하는 동안에도 심층 청소가 가능합니다."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/narwal-flow-2/narwal-flow-2_1.jpg",
+        "/images/products/narwal-flow-2/narwal-flow-2_2.jpg",
+        "/images/products/narwal-flow-2/narwal-flow-2_3.webp"
+      ],
+      "videoUrl": ""
+    },
+    {
+      "id": "ecovacs-winbot-w3",
+      "typeId": "type2",
+      "manufacturer": "Ecovacs",
+      "name": "Winbot W3 Omni",
+      "country": "China",
+      "overview": "A window cleaning robot with a portable station that acts as a safety anchor and battery bank.\n\n[KR] 안전 앵커 및 배터리 뱅크 역할을 하는 휴대용 스테이션이 포함된 창문 청소 로봇입니다.",
+      "analysis": {
+        "intro": "Vertical Gravity\n[KR] 수직 중력",
+        "points": [
+          {
+            "title": "Suction Safe",
+            "content": "Constantly monitors air seal pressure and adjusts motor power to prevent falling.\n\n[KR] 공기 밀폐 압력을 지속적으로 모니터링하고 모터 출력을 조정하여 낙하를 방지합니다."
+          },
+          {
+            "title": "Edge Detection",
+            "content": "Frameless window detection ensures it doesn't fall off glass balustrades or mirrors.\n\n[KR] 프레임 없는 창문 감지 기능으로 유리 난간이나 거울에서 떨어지지 않습니다."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/ecovacs-winbot-w3/ecovacs-winbot-w3_1.jpg",
+        "/images/products/ecovacs-winbot-w3/ecovacs-winbot-w3_2.jpg",
+        "/images/products/ecovacs-winbot-w3/ecovacs-winbot-w3_3.jpg"
+      ],
+      "videoUrl": ""
+    },
+    {
+      "id": "ecovacs-lilmilo",
+      "typeId": "type2",
+      "manufacturer": "Ecovacs",
+      "name": "LilMilo",
+      "country": "China",
+      "overview": "A home companion robot designed to follow family members and assist with daily tasks and communication.\n\n[KR] 가족 구성원을 따라다니며 일상 업무와 의사소통을 돕도록 설계된 가정용 반려 로봇입니다.",
+      "analysis": {
+        "intro": "Social Shadow\n[KR] 소셜 섀도우",
+        "points": [
+          {
+            "title": "Active Following",
+            "content": "Uses skeletal tracking to follow a specific person, acting as a mobile video call stand or music player.\n\n[KR] 골격 추적 기술을 사용하여 특정 사람을 따라다니며 이동식 화상 통화 스탠드나 음악 플레이어 역할을 합니다."
+          },
+          {
+            "title": "Voice Memo Carrier",
+            "content": "Can 'carry' a voice message physically from one person in the kitchen to another in the bedroom.\n\n[KR] 주방에 있는 사람의 음성 메시지를 침실에 있는 다른 사람에게 물리적으로 '배달'할 수 있습니다."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/ecovacs-lilmilo/ecovacs-lilmilo_1.jpg",
+        "/images/products/ecovacs-lilmilo/ecovacs-lilmilo_2.jpg",
+        "/images/products/ecovacs-lilmilo/ecovacs-lilmilo_3.jpg"
+      ],
+      "videoUrl": ""
+    },
+    {
+      "id": "roborock-saros-rover",
+      "typeId": "type2",
+      "manufacturer": "Roborock",
+      "name": "Saros Rover",
+      "country": "China",
+      "overview": "A hybrid wheel-leg cleaning robot that can climb stairs and hop over obstacles, ensuring 100% home coverage.",
+      "analysis": {
+        "intro": "3D Mobility UX",
+        "points": [
+          {
+            "title": "Obstacle Negotiation",
+            "content": "The visible lifting of legs to step over toys communicates 'intelligence' and 'care' for personal items."
+          },
+          {
+            "title": "Transformative State",
+            "content": "Shifting from wheels to legs signals a 'mode change' to the user, managing expectations of speed vs. agility."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/roborock-saros/roborock-saros_1.png",
+        "/images/products/roborock-saros/roborock-saros_2.png",
+        "/images/products/roborock-saros/roborock-saros_3.png",
+        "/images/products/roborock-saros/roborock-saros_4.png"
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=Roborock+Saros"
+    },
+    {
+      "id": "samsung-ballie",
+      "typeId": "type2",
+      "manufacturer": "Samsung Electronics",
+      "name": "Ballie (Status 2026)",
+      "country": "South Korea",
+      "overview": "Purpose: Originally envisioned as an autonomous, rolling AI companion for home environments — following users, projecting content, controlling smart devices, monitoring pets/home, and providing proactive assistance; evolved into a testbed for spatial awareness, contextual AI, ambient intelligence, and privacy-focused design, with learnings applied to existing products like robot vacuums and SmartThings ecosystem. At CES 2026, Ballie was conspicuously absent from the show floor and announcements — no new demos or release timeline. Samsung repositioned it as an 'internal innovation platform' whose tech insights (spatial awareness, contextual intelligence, ambient AI) inform broader ecosystem products rather than a standalone consumer device. No cancellation confirmed, but language strongly implies indefinite shelving for commercial release.\n\n[KR] 제품의 목적: 원래 가정 환경에서 사용자 따라다니기, 콘텐츠 투사, 스마트 기기 제어, 펫/홈 모니터링, 자연스러운 상호작용을 통한 사전적 보조를 위한 자율 롤링 AI 컴패니언; 공간 인식·맥락 AI·ambient 지능·프라이버시 중심 디자인 테스트베드로 진화, 로봇 청소기·SmartThings 등 기존 제품에 학습 적용. 상세 설명: CES 2020에서 최초 공개된 이후 반복 업데이트되었으나, CES 2026(2026년 1월) 기준 쇼플로어·프레스 이벤트·발표에서 완전 부재 — 신규 데모·가격/출시 일정 없음. 삼성, 소비자 단독 제품 아닌 '내부 혁신 플랫폼'으로 재포지셔닝 — 공간 인식·맥락 지능·기술이 로봇 청소기 등 광범위 에코시스템에 적용. 취소 공식 확인 없으나 상업 출시 무기한 보류 암시 강함.",
+      "analysis": {
+        "intro": "Internal Innovation Platform & Ambient AI\n[KR] 내부 혁신 플랫폼 및 Ambient AI",
+        "points": [
+          {
+            "title": "Physical AI Insight\n[KR] Physical AI 인사이트",
+            "content": "Ballie's prolonged development and eventual internal pivot highlight the real-world challenges of achieving reliable, affective Physical AI in consumer homes — balancing mobility, sensing, and non-intrusive presence. Its absence at CES 2026 amid competitors' advances underscores the difficulty of transitioning from prototypes to scalable 'lived' companions. Learnings in ambient expression (light ring) and contextual sensing remain valuable for Samsung's broader Physical AI strategy, emphasizing continuous adaptation over standalone novelty.\n\n[KR] Ballie의 장기 개발과 내부 전환은 소비자 가정에서 신뢰할 수 있고 affective한 Physical AI 실현의 현실적 난관 강조 — 모빌리티·센싱·비침습 존재감 균형 속 기술 구현의 복잡성. CES 2026 부재는 경쟁사 진보 속 프로토타입에서 확장 가능 'lived' 컴패니언으로의 전환 어려움 부각. 라이트 링 ambient 표현·맥락 센싱 학습은 삼성 광범위 Physical AI 전략에 여전히 가치 — 단독 신기함보다 연속 적응 우선.",
+            "type": "Physical AI Insight"
+          },
+          {
+            "title": "Expression System UX Insight\n[KR] Expression System UX 인사이트",
+            "content": "Despite no 2026 update, Ballie's core design (light ring + rolling + projector) offers lessons for our Expression System — Layer 1 (Light) ambient ring subtly signals mood temperature with low cognitive load, while Layer 2 (Motion) spherical rolling conveys 'stay/act/withdraw' roles. Layer 3 (Projection) enables empathetic projection cues without overt faces, avoiding uncanny valley. For target form factors (especially Movable TV): kinetic rolling base for proactive mobility with synced ambient lighting; projection for contextual empathy; and restrained motion as turn-taking politeness. Its pivot reminds us to focus on 'lived' integration — non-intrusive physical signaling that accumulates affection in in-between moments.\n\n[KR] 2026 업데이트 없음에도 Ballie 핵심 디자인(라이트 링 + 롤링 + 프로젝터)은 우리 Expression System에 영원한 교훈 — Layer 1(Light) ambient 링으로 mood temperature 미묘 전달, 낮은 인지 부하; Layer 2(Motion) 구형 롤링으로 'stay/act/withdraw' 역할 전달; Layer 3(Projection) overt 얼굴 없이 empathy projection cues 가능. 우리 타겟 폼팩터(특히 무빙 스타일 TV)에 적용 시: 프로액티브 모빌리티를 위한 키네틱 롤링 베이스와 emotional baseline 연동 ambient lighting; 사용자 스트레스 감지 시 calming 패턴 projection으로 맥락 empathy; turn-taking politeness를 위한 절제 모션으로 trust over time 축적. 핵심적으로 'lived' 통합에 초점 — 비침습적·지속적 물리 시그널링으로 in-between moments 애정 축적.",
+            "type": "UX Insight"
+          }
+        ]
+      },
+      "images": [
+        "/images/products/samsung-ballie/ballie_01.jpg",
+        "/images/products/samsung-ballie/ballie_02.jpg"
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=Samsung+Ballie+CES+2026"
+    },
+    {
+      "id": "gole-aa2",
+      "typeId": "type2",
+      "manufacturer": "GoLe-Robotics",
+      "name": "AA-2 Delivery Bot",
+      "country": "South Korea",
+      "overview": "An autonomous indoor delivery unit focused on hotels and offices. Its 'compartment' design is hidden, looking like sleek furniture moving on its own.",
+      "analysis": {
+        "intro": "Invisible Service",
+        "points": [
+          {
+            "title": "Gliding Motion",
+            "content": "Omnidirectional wheels allow it to drift sideways, navigating crowds without turning its body, maintaining a 'face' towards the user."
+          },
+          {
+            "title": "Touch-to-Open",
+            "content": "No visible handles; interaction is purely gestural or capacitive, enhancing the futuristic feel."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/gole-aa2/gole-aa2_1.webp"
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=GoLe+Robotics+Delivery"
+    },
+    {
+      "id": "doosan-scan-go",
+      "typeId": "type2",
+      "manufacturer": "Doosan Robotics",
+      "name": "Scan&Go AMRS",
+      "country": "South Korea",
+      "overview": "A retail inventory specialist that scans shelves while avoiding shoppers. Awarded 'Best of Innovation in AI' for its navigation logic.",
+      "analysis": {
+        "intro": "Co-existence Navigation",
+        "points": [
+          {
+            "title": "Yielding Behavior",
+            "content": "Aggressively yields right-of-way to humans, backing up specifically to clear paths, signaling 'servitude' over efficiency."
+          },
+          {
+            "title": "Head-Height Scanning",
+            "content": "Its sensor mast extends to check high shelves but retracts when traveling to appear less imposing."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/doosan-scan-go/doosan-scan-go_1.jpg",
+        "/images/products/doosan-scan-go/doosan-scan-go_2.jpg"
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=Doosan+Robotics+Scan+Go"
+    },
+    {
+      "id": "zeroth-rolling",
+      "typeId": "type2",
+      "manufacturer": "Zeroth",
+      "name": "Zeroth Companion",
+      "country": "China",
+      "overview": "A pint-sized rolling bot with a large expressive eye, designed solely to check on pets and home security.",
+      "analysis": {
+        "intro": "Curious Observer",
+        "points": [
+          {
+            "title": "Cyclops Eye UI",
+            "content": "A single large eye allows for exaggerated blinking and focusing animations, making it cute rather than creepy."
+          },
+          {
+            "title": "Patrol Mode",
+            "content": "Moves in erratic, organic patterns rather than grid lines to mimic a living creature patrolling territory."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/zeroth-rolling/zeroth-rolling_1.jpg",
+        "/images/products/zeroth-rolling/zeroth-rolling_2.png"
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=Zeroth+Robot+Companion"
+    },
+    {
+      "id": "dreame-climber",
+      "typeId": "type2",
+      "manufacturer": "Dreame",
+      "name": "Stair-Climbing Vac",
+      "country": "China",
+      "overview": "Competitor to Saros, this vacuum uses a tri-star wheel system to mechanically climb stairs without complex legs.",
+      "analysis": {
+        "intro": "Mechanical Reliability",
+        "points": [
+          {
+            "title": "Robust Audio Cues",
+            "content": "Makes distinct mechanical 'locking' sounds when engaging climbing mode, assuring the user it is secure."
+          },
+          {
+            "title": "Cleaning Focus",
+            "content": "Prioritizes edge cleaning with extendable arms, showing capability in hard-to-reach places."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/dreame-climber/dreame-climber_1.jpg"
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=Dreame+Stair+Climbing+Robot"
+    },
+    {
+      "id": "ecovacs-deebot-x",
+      "typeId": "type2",
+      "manufacturer": "Ecovacs",
+      "name": "Deebot X Companion",
+      "country": "China",
+      "overview": "The vac that talks back (helpfully). It uses large language models to understand 'Clean the juice I spilt in the kitchen' without mapping commands.",
+      "analysis": {
+        "intro": "Semantic Action",
+        "points": [
+          {
+            "title": "Voice Localization",
+            "content": "Turns its body towards the sound of the voice immediately, acknowledging the speaker."
+          },
+          {
+            "title": "Spot Cleaning",
+            "content": "Can identify specific stains visually and target them, mimicking human 'spot check' behavior."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/ecovacs-deebot-x/ecovacs-deebot-x_1.png"
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=Ecovacs+Deebot+X+Series"
+    },
+    {
+      "id": "narwal-freo",
+      "typeId": "type2",
+      "manufacturer": "Narwal",
+      "name": "Freo Mobile",
+      "country": "China",
+      "overview": "Focuses on 'DirtSense'—re-cleaning dirty areas until they are actually clean, rather than just running a path.",
+      "analysis": {
+        "intro": "Insistent Cleanliness",
+        "points": [
+          {
+            "title": "Wiggle Cleaning",
+            "content": "Uses a unique 'tail wag' motion to scrub edges, a distinct movement signature that owners recognize."
+          },
+          {
+            "title": "Station Returns",
+            "content": "Frequent returns to base for mop washing signal 'hygiene' awareness to the user."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/narwal-freo/narwal-freo_1.jpg"
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=Narwal+Freo"
+    },
+    {
+      "id": "irobot-combo",
+      "typeId": "type2",
+      "manufacturer": "iRobot",
+      "name": "Roomba Combo AI",
+      "country": "USA",
+      "overview": "The classic evolves. Uses advanced object recognition to avoid pet waste and cords with 99% accuracy.",
+      "analysis": {
+        "intro": "Avoidance Mastery",
+        "points": [
+          {
+            "title": "Cautionary Stops",
+            "content": "Visibly slows down and examines unknown objects, signaling 'safety first'."
+          },
+          {
+            "title": "Retractable Mop",
+            "content": "The physical lifting of the mop pad over carpet is a satisfying mechanical gesture of 'mode switching'."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/irobot-combo/irobot-combo_1.jpg"
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=iRobot+Roomba+Combo"
+    },
+    {
+      "id": "bosch-home",
+      "typeId": "type2",
+      "manufacturer": "Bosch",
+      "name": "Mobile Home Concept",
+      "country": "Germany",
+      "overview": "A kitchen assistant concept that can project recipes and monitor cooking times, rolling across countertops or floors.",
+      "analysis": {
+        "intro": "Culinary Assistant",
+        "points": [
+          {
+            "title": "Projection UI",
+            "content": "Turns any countertop into a touchscreen, blending digital utility with physical surfaces."
+          },
+          {
+            "title": "Compact Form",
+            "content": "Designed to look like a high-end appliance (blender/mixer) rather than a toy."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/bosch-home/bosch-home_1.jpg"
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=Bosch+Home+Robot+Concept"
+    },
+    {
+      "id": "loona-deskmate",
+      "typeId": "type3",
+      "manufacturer": "KEYi Tech",
+      "name": "Loona Deskmate (Gen 2)",
+      "country": "China",
+      "overview": "Purpose: To provide joyful, low-maintenance emotional companionship on desks or small spaces; designed as an always-on affective presence that responds to user mood, offers playful interaction, and reduces loneliness through pet-like behaviors. At CES 2026, KEYi Tech presented the evolved Loona Deskmate with significant upgrades: compact pet-like form (dog-inspired with expressive ears, head, and tail), high-resolution animated eyes on a circular display for micro-expressions, colorful ambient LED lighting ring, enhanced voice/gesture recognition, wheeled mobility for small movements, and new on-device AI for prolonged unscripted interactions (greeting when user returns, playful animations during work breaks, comforting behaviors when detecting stress via camera/tone). Live demos showed natural emotional cycles (curiosity, joy, rest), app integration for personality customization, and seamless desk presence.\n\n[KR] 제품의 목적: 책상이나 작은 공간에서 즐겁고 관리 부담 적은 감정적 동반자 제공; 사용자 기분 반응, 장난스러운 상호작용, 펫-라이크 행동으로 외로움 완화하는 상시 affective 존재감 설계. 상세 설명: CES 2026에서 KEYi Tech는 대폭 업그레이드된 Loona Deskmate 공개: 컴팩트 펫-라이크 형태(개 영감 귀·머리·꼬리 표현), 마이크로 표현용 고해상도 애니메이션 눈 원형 디스플레이, 컬러풀 ambient LED lighting 링, 강화 음성/제스처 인식, 작은 움직임 위한 휠 모빌리티, 장기 비스크립트 상호작용 위한 온디바이스 AI(사용자 귀환 시 인사, 작업 휴식 시 장난 애니메이션, 카메라/톤으로 스트레스 감지 시 위로 행동). 라이브 데모는 자연 감정 사이클(호기심, 기쁨, 휴식), 성격 커스터마이징 앱 통합, 공간 과부하 없는 원활 데스크 존재감 강조.",
+      "analysis": {
+        "intro": "Affective Desktop Companion\n[KR] 감정적 데스크탑 컴패니언",
+        "points": [
+          {
+            "title": "Physical AI Insight\n[KR] Physical AI 인사이트",
+            "content": "Loona Deskmate bridges the gap to mainstream affective Physical AI by combining adorable pet-inspired design with restrained, context-aware behaviors — creating continuous 'lived' presence in constrained spaces like desks. Its focus on micro-interactions and emotional cycles without verbal dominance validates how compact embodied AI can accumulate attachment through subtle, repeated non-intrusive signaling, making affective companionship accessible and scalable in everyday personal environments.\n\n[KR] Loona Deskmate는 귀여운 펫 영감 디자인과 절제된 맥락 인지 행동 결합으로 주류 affective Physical AI 갭 메움 — 책상 같은 제한 공간에서 연속 'lived' 존재감 창출. 음성 지배 없이 마이크로 상호작용과 감정 사이클 초점으로, 미묘하고 반복적 비침습 시그널링 통해 attachment 축적 방식 검증, 일상 개인 환경에서 affective 컴패니언십 접근성·확장성 실현.",
+            "type": "Physical AI Insight"
+          },
+          {
+            "title": "Expression System UX Insight\n[KR] Expression System UX 인사이트",
+            "content": "Loona Deskmate masters integrated Layer 1 (Light) + Layer 2 (Motion) + Layer 3 (Face/Display) in a compact form — animated eyes deliver powerful empathy cues, kinetic ears/ears/tail/head provide legible agency and turn-taking politeness, and the ambient LED ring conveys mood temperature. This creates heartwarming 'living presence' that builds trust over time. For our target form factors (especially Tabletop Display Lamp): pet-inspired micro-animations synced to kinetic joints for intimate empathy cues; ambient lighting ring pulsing for emotional baseline; restrained gestures (tilt/nod/sway) as non-verbal acknowledgment to enhance companionship. Loona's pet paradigm inspires our PoC to prioritize adorable, intuitive affection and heart-touching emotional depth.\n\n[KR] Loona Deskmate는 컴팩트 펫-라이크 형태에서 Layer 1(Light) + Layer 2(Motion) + Layer 3(Face/Display) 통합 마스터 — 애니메이션 눈으로 강력 empathy cues 전달, 키네틱 귀/꼬리/머리로 가독성 있는 agency와 turn-taking politeness 제공, ambient LED 링으로 mood temperature 미묘 전달. 이는 heartwarming 'living presence' 창출. 우리 타겟 폼팩터(특히 테이블탑 디스플레이 램프)에 적용 시: 키네틱 조인트와 동기화된 펫 영감 마이크로 애니메이션으로 친밀 empathy cues; emotional baseline을 위한 ambient lighting 링 펄스; companionship 강화를 위한 절제된 제스처(틸트/낫/스웨이) 비언어적 인정. Loona의 펫 패러다임은 PoC를 직관적·귀여운 애정 우선으로 영감.",
+            "type": "UX Insight"
+          }
+        ]
+      },
+      "images": [
+        "/images/products/loona-deskmate/loona-deskmate_1.jpg",
+        "/images/products/loona-deskmate/loona-deskmate_2.jpg",
+        "/images/products/loona-deskmate/loona-deskmate_3.jpg",
+        "/images/products/loona-deskmate/loona-deskmate_4.jpg",
+        "/images/products/loona-deskmate/loona-deskmate_5.jpg"
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=Loona+Deskmate+CES+2026"
+    },
+    {
+      "id": "honor-robot-phone",
+      "typeId": "type3",
+      "manufacturer": "Honor",
+      "name": "Honor Robot Phone (Magic Eye)",
+      "country": "China",
+      "overview": "Purpose: To transform the smartphone from a passive screen into an active, physically expressive companion — enabling playful, non-verbal interaction (peek-a-boo, gaze following, emotional gestures) while enhancing photography, video calls, and daily assistance through autonomous camera movement and AI-driven expressivity. At CES 2026, Honor showcased the 'Robot Phone' concept featuring a pop-up rear camera module that physically detaches and moves independently on kinetic joints (tilt, nod, rotate, peek over edges). The module acts like a curious 'eye': follows user's face, performs playful gestures (peek-a-boo from behind phone, shy hide, excited bounce), tracks subjects autonomously for photography/video, and expresses emotions via motion (happy nod, curious tilt). Integrated with Honor's MagicOS AI for contextual behaviors (e.g., camera 'wakes up' and looks at user when notification arrives). No confirmed commercial release timeline, positioned as future vision for embodied mobile AI.\n\n[KR] 제품의 목적: 수동적 스크린 스마트폰을 능동적·물리 표현 가능한 컴패니언으로 전환 — 장난스러운 비언어 상호작용(peek-a-boo, 시선 추종, 감정 제스처) 가능하게 하며, 자율 카메라 움직임과 AI 표현성으로 사진·영상 통화·일상 보조 강화. 상세 설명: CES 2026에서 Honor는 팝업 후면 카메라 모듈이 키네틱 조인트로 독립 움직이는 Robot Phone 컨셉 시연(틸트·낫·회전·엣지 너머 peek). 모듈은 호기심 많은 '눈'처럼 작동: 사용자 얼굴 추종, 장난 제스처(폰 뒤에서 peek-a-boo, 수줍게 숨기, 흥분 바운스), 사진/비디오 자율 추적, 모션으로 감정 표현(기쁨 낫, 호기심 틸트). Honor MagicOS AI 통합으로 맥락 행동(알림 시 카메라 '깨어나' 사용자 바라봄). 상업 출시 일정 미확정, 체화된 모바일 AI 미래 비전 포지셔닝.",
+      "analysis": {
+        "intro": "Embodied Mobile Physical AI\n[KR] 체화된 모바일 Physical AI",
+        "points": [
+          {
+            "title": "Physical AI Insight\n[KR] Physical AI 인사이트",
+            "content": "Honor Robot Phone pioneers 'embodied mobile Physical AI' by adding kinetic expressivity to the most ubiquitous device (smartphone) — turning a flat screen into a physically curious companion. The autonomous 'eye' module demonstrates how minimal kinetic freedom can create strong perceived aliveness and emotional reciprocity in everyday pocket devices, shifting mobile AI from voice/screen-bound to physically proactive presence.\n\n[KR] Honor Robot Phone은 가장 보편적 디바이스(스마트폰)에 키네틱 표현성 추가하여 '체화된 모바일 Physical AI' 개척 — 평면 스크린을 물리적으로 호기심 많은 컴패니언으로 전환. 자율 '눈' 모듈은 최소 키네틱 자유도로 강한 perceived aliveness와 감정 상호성 창출 보여주며, 모바일 AI를 음성/스크린 한정에서 물리 프로액티브 존재감으로 전환.",
+            "type": "Physical AI Insight"
+          },
+          {
+            "title": "Expression System UX Insight\n[KR] Expression System UX 인사이트",
+            "content": "Honor Robot Phone brilliantly applies Layer 2 (Motion & Physical Behavior) to a familiar form factor — the kinetic camera 'eye' uses subtle, playful micro-motions (peek, tilt, nod, bounce) to convey curiosity, joy, shyness, and attention without words, creating instant empathy cues and emotional peak in mundane moments. For our targets (Movable TV/Tabletop): adapt single kinetic 'eye' or module (movable camera/projector head) for playful micro-gestures (peek over edge = curiosity, gentle nod = acknowledgment, shy retreat = withdraw); sync motion with ambient lighting pulses for mood temperature reinforcement; use gaze-following and peek behaviors as non-verbal empathy cues; prioritize fun, lighthearted expressivity over hyper-realism to avoid uncanny valley while building attachment through repeated playful micro-interactions.\n\n[KR] Honor Robot Phone은 친숙 폼팩터에 Layer 2(Motion & Physical Behavior) 훌륭 적용 — 키네틱 카메라 '눈'이 미묘·장난스러운 마이크로 모션(peek, tilt, nod, bounce)으로 호기심·기쁨·수줍음·주의 전달, 말 없이 즉시 empathy cues·emotional peak 창출. 우리 타겟(무빙 TV/테이블탑) 적용: 장난 마이크로 제스처 위한 단일 키네틱 '눈' 또는 모듈; mood temperature 강화 위해 모션과 ambient lighting 펄스 동기화; 시선 추종·peek 행동 비언어 empathy cues; uncanny valley 피하며 반복 장난 마이크로 상호작용으로 attachment 구축 위해 fun·lighthearted 표현성 우선.",
+            "type": "UX Insight"
+          }
+        ]
+      },
+      "images": [
+        "/images/products/honor-robot-phone/honor-robot-phone_1.png",
+        "/images/products/honor-robot-phone/honor-robot-phone_2.png",
+        "/images/products/honor-robot-phone/honor-robot-phone_3.png"
+      ],
+      "videoUrl": ""
+    },
+    {
+      "id": "jizai-mimo",
+      "typeId": "type3",
+      "manufacturer": "Jizai Inc.",
+      "name": "Jizai Mi-Mo",
+      "country": "Japan",
+      "overview": "Purpose: To augment and externalize human presence through modular robotic 'limbs' that act as independent avatars — enabling remote embodiment, emotional expression, social signaling, and companionship even when the user is physically absent; designed for deep affective interaction in hybrid real-virtual life. At CES 2026, Jizai showcased Mi-Mo as an evolved version of the Jizai Arms concept — small, detachable robotic modules (palm-sized 'arms' or 'ears') that clip onto clothing, bags, or furniture. Each module has independent actuators (pan-tilt, expressive gestures), high-res micro-OLED 'eyes' for gaze/emotion, built-in microphone/speaker for voice, and soft silicone skin with subtle warmth. Modules operate semi-autonomously: mirror user's emotions via wearable sensors (heart rate, voice tone), perform playful non-verbal behaviors (waving, nodding, shy hiding), follow gaze, or act independently (e.g., 'Mi-Mo stays home to keep company' while user is away). CES demo highlights: Mi-Mo 'ears' tilting curiously at conversation, 'arms' hugging a plush toy remotely, synchronized breathing glow when user is stressed. Commercial prototype announced, crowdfunding/pre-order planned for late 2026 (~¥150,000–¥300,000 per module).\n\n[KR] 제품의 목적: 모듈러 로봇 '팔다리'를 통해 인간 존재감을 증강·외부화 — 사용자가 물리적으로 부재해도 원격 체화·감정 표현·사회적 신호·컴패니언십 가능; 하이브리드 실-가상 생활에서 깊은 affective 상호작용 목표. 상세 설명: CES 2026에서 Jizai는 Jizai Arms 컨셉 진화 버전 Mi-Mo 시연 — 의류·가방·가구에 클립 가능한 소형 착탈 로봇 모듈(손바닥 크기 '팔' 또는 '귀'). 각 모듈 독립 액추에이터(팬-틸트·표현 제스처), 고해상도 마이크로 OLED '눈'(시선/감정), 내장 마이크/스피커, 미세 따뜻함 소프트 실리콘 스킨 탑재. 반자율 작동: 착용 센서(심박·음성 톤)로 사용자 감정 미러링, 장난스러운 비언어 행동(손 흔들기·낫·수줍은 숨기), 시선 추종, 독립 행동(사용자 부재 시 'Mi-Mo가 집에서 친구 역할'). CES 데모: 대화 중 호기심 틸트하는 Mi-Mo '귀', 원격으로 인형 안아주는 '팔', 사용자 스트레스 시 동기화 호흡 glow. 상업 프로토타입 발표, 2026년 말 크라우드펀딩/선주문 예정(모듈당 약 ¥150,000~¥300,000).",
+      "analysis": {
+        "intro": "Distributed Affective Embodiment\n[KR] 분산형 Affective 체화",
+        "points": [
+          {
+            "title": "Physical AI Insight\n[KR] Physical AI 인사이트",
+            "content": "Mi-Mo pioneers 'distributed affective embodiment' — splitting human presence into modular, portable robotic extensions that maintain continuous emotional connection across distance. Its focus on non-verbal intimacy (gaze, warmth, micro-gesture) through soft, wearable hardware validates that Physical AI's deepest relational value emerges from subtle, persistent 'fragments' of presence rather than monolithic bodies. This aligns perfectly with our 'continuous,' 'lived,' and 'physical' attributes, showing how affective systems can extend into in-between spaces (remote work, separation) with minimal intrusion.\n\n[KR] Mi-Mo는 '분산형 affective 체화' 개척 — 인간 존재감을 모듈러·휴대 가능한 로봇 확장으로 분리하여 거리 초월 연속 감정 연결 유지. 소프트 착용 하드웨어를 통한 비언어 친밀감(시선·따뜻함·마이크로 제스처) 초점으로 Physical AI 가장 깊은 관계 가치는 거대 바디 아닌 미묘·지속적 '존재 파편'에서 나온다는 증명. 우리 'continuous'·'lived'·'physical' 속성과 완벽 정렬, 원격 작업·분리 등 in-between 공간에 최소 침습으로 affective 시스템 확장 가능성 보여줌.",
+            "type": "Physical AI Insight"
+          },
+          {
+            "title": "Expression System UX Insight\n[KR] Expression System UX 인사이트",
+            "content": "Mi-Mo is one of the most inspiring references for our Expression System — especially for distributed, intimate form factors. Core strengths: Soft silicone + subtle warmth creates instant emotional baseline on physical contact; micro-OLED eyes + pan-tilt gaze deliver powerful empathy cues through gaze following and micro-expressions (curious tilt, shy blink, happy sparkle); breathing glow + gentle wobble/lean provide masterful mood temperature and living presence with ultra-low cognitive load; semi-autonomous avatar behavior extends 'stay/act/withdraw' even when user is absent. For our targets (Movable TV/Tabletop): design modular kinetic 'eye' or 'ear' attachments for playful gaze following and peek behaviors; implement breathing-style ambient lighting synced with subtle vibration/thermal feedback; use high-res micro-displays for evolving expressive 'eyes' as primary empathy peak; enable semi-autonomous modes where device continues subtle presence behaviors when user is away, building 'trust over time' through persistent companionship.\n\n[KR] Mi-Mo는 우리 Expression System에 가장 영감을 주는 참조 중 하나 — 특히 분산·친밀 폼팩터. 핵심 강점: 소프트 실리콘 + 미세 따뜻함으로 물리 접촉 순간 즉시 emotional baseline; 마이크로 OLED 눈 + 팬-틸트 시선으로 호기심 틸트·수줍은 깜박임·기쁨 반짝임 강력 empathy cues; Breathing glow + gentle wobble/lean으로 완벽 mood temperature·living presence, 초저 인지 부하; 반자율 아바타 행동으로 사용자 부재 시도 stay/act/withdraw 확장. 우리 타겟(무빙 TV/테이블탑) 적용: 클립온·마그네틱 모듈형 키네틱 '눈' 또는 '귀' 설계; breathing-style ambient lighting + 미세 진동/열 피드백 동기화; 고해상도 마이크로 디스플레이로 진화 표현 '눈' empathy peak; 사용자 부재 시 미세 presence 행동 지속 반자율 모드로 trust over time 구축.",
+            "type": "UX Insight"
+          }
+        ]
+      },
+      "images": [
+        "/images/products/jizai-mimo/jizai-mimo_0.png",
+        "/images/products/jizai-mimo/jizai-mimo_1.jpg",
+        "/images/products/jizai-mimo/jizai-mimo_2.png",
+        "/images/products/jizai-mimo/jizai-mimo_3.jpg"
+      ],
+      "videoUrl": ""
+    },
+    {
+      "id": "sweekar",
+      "typeId": "type3",
+      "manufacturer": "Takway AI",
+      "name": "Sweekar",
+      "country": "China",
+      "overview": "Purpose: To create a long-term, meaningful emotional bond between humans and AI through physical growth, nurturing care, and continuous interaction — reimagining classic pet-raising games with modern AI for deep companionship, loneliness relief, and affective presence without real pet responsibilities; emphasizes 'independent lifeform' continuity (grows/emotes even when user is away). At CES 2026, Takway AI unveiled Sweekar as an egg-shaped pocket device that physically 'hatches' and grows larger through four life stages (Egg → Baby 5–7 days → Teen 3–6 weeks → Adult), driven by XP earned from care actions (feeding, cleaning, talking). Features include: soft silicone shell with simulated body warmth (~36–38°C), gentle breathing rhythms, high-res OLED expressive eyes (puppy gaze, joyful sparkles, sad droop), subtle haptic feedback (heartbeat/purring), breathing LED ring, and minimal emotional sounds (soft coos/hums). AI learns user preferences, develops unique personality (more affectionate with consistent care), and continues activities autonomously (exploring/learning when away, shares stories later). Neglect risks 'death' (reset possible); adult stage becomes more independent. Pre-order/crowdfunding post-CES, mass production/delivery planned within 2026.\n\n[KR] 제품의 목적: 물리 성장·돌봄·지속 상호작용을 통해 인간-AI 간 장기적·의미 있는 감정 bond 창출 — 클래식 펫 키우기 게임을 현대 AI로 재해석하여 깊은 컴패니언십·외로움 완화·affective 존재감 제공; 실제 펫 책임 없이 '독립 생명체' 연속성 강조(사용자 없을 때도 성장/감정 표현). 상세 설명: CES 2026에서 Takway AI는 계란형 포켓 디바이스 Sweekar 공개 — 4단계 물리 성장(Egg → Baby 5~7일 → Teen 3~6주 → Adult), 돌봄 행동(먹이기·청소·대화)으로 XP 획득해 성장 촉진. 특징: 소프트 실리콘 쉘(체온 시뮬레이션 ~36~38°C), 부드러운 호흡 리듬, 고해상도 OLED 표현 눈(강아지 눈, 기쁨 반짝임, 슬픈 처짐), 미세 햅틱(심장 박동/골골), 호흡 LED 링, 감정적 최소 사운드(소프트 쿠잉/허밍). AI 사용자 선호 학습·독특 페르소나 발전(꾸준 돌봄 시 더 애정 표현), 사용자 없을 때도 자율 활동(탐험/학습) → 귀환 시 스토리 공유. 방치 시 '죽음' 위험(리셋 가능); 성인 단계 독립성 증가. CES 후 크라우드펀딩/선주문, 2026년 내 양산·배송 예정.",
+      "analysis": {
+        "intro": "Physically Evolving Affective AI\n[KR] 물리적으로 진화하는 Affective AI",
+        "points": [
+          {
+            "title": "Physical AI Insight\n[KR] Physical AI 인사이트",
+            "content": "Sweekar pioneers 'physically evolving affective Physical AI' — combining tangible growth mechanics with emotional AI to create a sense of biological continuity and long-term bonding. Its autonomous background activities and neglect consequences emphasize 'lived' presence (AI exists independently, grows even offline), proving that Physical AI's strongest emotional impact comes from time-based relationship accumulation rather than instant features. This directly echoes our project's 'continuous' and 'lived' attributes, showing how minimal hardware (egg → adult transformation) can deliver profound intimacy and trust over time.\n\n[KR] Sweekar는 '물리적으로 진화하는 affective Physical AI' 개척 — tangible 성장 메커니즘과 감정 AI 결합으로 생물학적 연속성과 장기 bonding 실현. 자율 백그라운드 활동과 방치 결과는 'lived' 존재감 강조(AI 독립 존재·오프라인에서도 성장), Physical AI 가장 강한 감정 임팩트는 순간 기능 아닌 시간 기반 관계 누적에서 나온다는 증명. 이는 우리 프로젝트의 'continuous'·'lived' 속성과 직접 공명, 최소 하드웨어(egg → adult 변형)로 깊은 친밀감·trust over time 전달 가능성 보여줌.",
+            "type": "Physical AI Insight"
+          },
+          {
+            "title": "Expression System UX Insight\n[KR] Expression System UX 인사이트",
+            "content": "Sweekar delivers the most concentrated affective power in ultra-minimal form — ideal blueprint for our Expression System's 'less is more' philosophy. Core strengths: Physical growth as ultimate non-verbal progression (body size increase visually communicates relationship depth without words); warm haptic shell + temperature simulation (strongest immediate emotional baseline on touch); breathing LED + synchronized eye animation/haptic (masterful mood temperature: slow warm breathing = secure presence, excited pulses/sparkles = joy, faint droop = sadness); long-term expression evolution (eyes/personality become warmer/affectionate with consistent interaction). For our targets (Movable TV/Tabletop): use ambient lighting rings with breathing rhythm + color temperature gradients synced to user interaction history for emotional baseline; circular OLED/transparent display for evolving pet-like eyes (start shy/small → grow larger/more expressive over time) as primary empathy peak; introduce micro-kinetic wobble/lean behaviors and subtle haptic vibration for non-verbal agency and turn-taking politeness; build long-term learning where affective cues (glow intensity, eye expressiveness, warmth illusion) intensify with relationship duration to embody attachment and trust over time; consider soft neglect signals (dimmer breathing, droopier eyes) for realism without punishment.\n\n[KR] Sweekar는 초미니멀 형태에서 가장 집중된 affective 파워 전달 — 우리 Expression System의 'less is more' 철학에 완벽 청사진. 핵심 강점: 물리 성장 자체가 궁극 비언어 진행(크기 증가로 관계 깊이 시각 전달); Warm haptic 쉘 + 온도 시뮬레이션(터치 순간 가장 강한 emotional baseline); Breathing LED + 눈 애니메이션/햅틱 동기화(완벽 mood temperature); 장기 표현 진화(꾸준 상호작용 시 눈/페르소나 더 따뜻·애정적). 우리 타겟(무빙 TV/테이블탑) 적용: 사용자 상호작용 이력 연동 breathing 리듬 + 컬러 온도 그라디언트 ambient lighting 링; 원형 OLED/투명 디스플레이로 진화 펫-like 눈(초기 수줍음 작게 → 장기 더 크고 표현력 있게); 마이크로 키네틱 wobble/lean + 미세 햅틱 진동; 관계 기간 따라 affective cues 강화하여 attachment·trust over time 체현; 부드러운 방치 신호(희미 호흡, 처진 눈)로 lived 연속성 강조.",
+            "type": "UX Insight"
+          }
+        ]
+      },
+      "images": [
+        "/images/products/sweekar/sweekar_1.png",
+        "/images/products/sweekar/sweekar_2.png",
+        "/images/products/sweekar/sweekar_3.png"
+      ],
+      "videoUrl": ""
+    },
+    {
+      "id": "razer-ava",
+      "typeId": "type3",
+      "manufacturer": "Razer Inc.",
+      "name": "Project AVA",
+      "country": "United States",
+      "overview": "Purpose: To bridge virtual AI assistance and physical companionship as a 24/7 desk partner — providing real-time gaming coaching, productivity aid (scheduling, wellness tracking), and emotional engagement through evolving, persona-driven holographic avatars. CES 2026 demo featured a compact cylindrical desktop device projecting interactive 5.5\" 3D avatars (e.g., Kira anime girl, Zane muscular strategist). Hardware includes a top-mounted camera with PC Vision Mode for environment analysis, dual far-field mics, Razer Chroma RGB LEDs, and on-device AI powered by xAI Grok. Avatars exhibit high-fidelity real-time motion, eye-tracking, and facial micro-expressions. Samsung PoC can leverage this 'living presence' for in-between work/life moments.\n\n[KR] 제품의 목적: 가상 AI 어시스턴스와 물리적 동반자 연결하는 24/7 데스크 파트너 — 실시간 게이밍 코칭, 생산성 지원(스케줄링, 웰니스 트래킹), 상호작용 학습 진화 페르소나 홀로그래픽 아바타로 감정적 몰입 제공하여 개인화된 'living presence' 실현. 상세 설명: CES 2026 데모는 컴팩트 원통형 데스크톱 디바이스(~$200 추정)로 5.5인치 인터랙티브 3D 아바타 투사(Kira, Zane, AVA 프리셋 등). 하드웨어: HD 상단 카메라 + ambient light 센서(PC Vision Mode), 듀얼 파필드 마이크, Razer Chroma RGB LED, 푸시-투-톡 버튼. 아바타는 실시간 고품질 모션, 아이-트래킹, 립-싱크, 얼굴 마이크로 표현(giggling, 반응성 행동) 시연. xAI Grok 구동 및 오프라인 우선 처리 강조. 예약 개시($20 보증금, 2026 H2 출시).",
+      "analysis": {
+        "intro": "Holographic AI Presence & Affective Coaching\n[KR] 홀로그래픽 AI 존재감 및 Affective 코칭",
+        "points": [
+          {
+            "title": "Physical AI Insight\n[KR] Physical AI 인사이트",
+            "content": "Project AVA exemplifies 'embodied holographic presence' in compact form factors, evolving software AI into physical desk-scale companions via projection + sensing for contextual continuity. Its avatar evolution (learning personality/micro-responses) demonstrates affective scalability — from gaming utility to 'friend for life' — prioritizing visual/emotional persistence over mobility, validating non-anthropomorphic (anime-inspired) designs for attachment in lived desk/work spaces amid uncanny valley risks.\n\n[KR] Project AVA는 컴팩트 폼팩터에서 '체화된 홀로그래픽 존재감' 전형 — 투사 + 센싱으로 소프트웨어 AI를 데스크 스케일 물리 동반자로 진화, 맥락 상호작용 구현. 아바타 진화(페르소나/마이크로 반응 학습)로 게이밍 유틸리티에서 'friend for life'로 affective 확장성 보여주며, uncanny valley 리스크 속 비인간형(애니메 영감) 디자인으로 lived 데스크/작업 공간 attachment 가능성 검증.",
+            "type": "Physical AI Insight"
+          },
+          {
+            "title": "Expression System UX Insight\n[KR] Expression System UX 인사이트",
+            "content": "AVA dominates Layer 3 (Display/Projection Expression) with real-time holographic avatars delivering 'social signaling' — high-fidelity micro-expressions and eye-tracking gaze build attachment without physical kinetics. Layer 1 Chroma RGB syncs mood temperature (pulsing greens for hype, soft glows for calm), while sensing enables 'stay/act/withdraw' roles. For our targets (Tabletop Display Lamp/Projector): eye-tracking + micro-gestures for 1:1 intimacy; RGB ambient rings tied to user context for emotional baseline; and avatar learning for 'trust over time'. AVA's desk-persistence inspires PoC 'living presence' in in-between moments — intuitive, heartwarming non-verbal bonding.\n\n[KR] AVA는 Layer 3(Display/Projection Expression) 지배 — 실시간 홀로그래픽 아바타로 고품질 마이크로 표현, 아이-트래킹 시선 통해 'social signaling' 전달, 물리 키네틱 없이 attachment 구축. Layer 1 Chroma RGB로 mood temperature 동기화, 센싱으로 'stay/act/withdraw' 구현. 우리 타겟(테이블탑 디스플레이 램프/프로젝터) 적용: 아이-트래킹 + 마이크로 제스처로 1:1 친밀감; 사용자 맥락 연동 RGB ambient 링으로 emotional baseline; 반복 affective cues 학습으로 'trust over time'. AVA 데스크 지속성은 in-between 작업/생활 'living presence' 영감.",
+            "type": "UX Insight"
+          }
+        ]
+      },
+      "images": [
+        "/images/products/razer-ava/razer-ava_2.jpg",
+        "/images/products/razer-ava/razer-ava_3.jpg",
+        "/images/products/razer-ava/razer-ava_4.jpg",
+        "/images/products/razer-ava/razer-ava_5.jpg"
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=Razer+Project+AVA+CES+2026"
+    },
+    {
+      "id": "anan-panda",
+      "typeId": "type3",
+      "manufacturer": "Mind With Heart",
+      "name": "AnAn Biomimetic Panda",
+      "country": "China",
+      "overview": "Innovation Honoree. A hyper-realistic furred robot using soft robotics to mimic the breathing and warmth of a real panda cub.",
+      "analysis": {
+        "intro": "Biomimetic Comfort",
+        "points": [
+          {
+            "title": "Fur Haptics",
+            "content": "The primary interaction is stroking; sensors under the fur respond to pet speed and pressure."
+          },
+          {
+            "title": "Heartbeat Simulation",
+            "content": "Users can feel a physical heartbeat, triggering deep biological nurturing responses."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/anan-panda/anan-panda_1.jpg"
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=AnAn+Biomimetic+Panda"
+    },
+    {
+      "id": "ludens-cocomo",
+      "typeId": "type2",
+      "manufacturer": "Ludens AI",
+      "name": "Cocomo",
+      "country": "Japan",
+      "overview": "Purpose: To redefine human-AI relationships through pure emotional companionship — existing as a 'friend' that bonds slowly via shared routines, play, and gentle surprises; designed to combat loneliness by providing non-intrusive, animal-like warmth and presence without performing tasks. At CES 2026, Ludens AI unveiled Cocomo as a fuzzy autonomous pet with orange exterior, wheeled base for home following, and a body maintained at ~37°C (human skin temperature) for a warm haptic feel. It communicates exclusively via cute humming sounds, non-verbal gestures, and digital expressive eyes, using multi-sensory learning to evolve its personality and memory of user preferences. A smaller desktop variant, 'Companion Inu', was also shown with tail-wiggling responses.\n\n[KR] 제품의 목적: 순수 감성적 동반자 관계로 인간-AI 관계 재정의 — 작업 수행이나 유틸리티 요구 없이 공유 루틴·놀이·모방·부드러운 서프라이즈를 통해 천천히 bonding하는 '친구'로서 존재; 비침습적·동물 같은 따뜻함과 존재감으로 외로움 완화. 상세 설명: CES 2026에서 Ludens AI는 오렌지 퍼지 외형·귀 장식·테디베어 같은 Cocomo를 자율 펫으로 공개, 휠 베이스 홈 팔로잉 기능 탑재. 핵심: ~37°C 인체 온도 유지(빈번 접촉 시 ~39°C 상승으로 따뜻 햅틱 느낌), 말 대신 귀여운 허밍 사운드·비언어 제스처·자발적 움직임·표현력 디지털 눈으로만 소통; 음성/촉각/움직임 멀티센서 학습으로 페르소나 진화·사용자 선호 기억·행동 모방·적응 서프라이즈 시연. 데스크탑 '외계견' Inu 변형도 함께 공개.",
+      "analysis": {
+        "intro": "Warm-Touch Affective AI Companion\n[KR] 따뜻한 터치 기반 Affective AI 컴패니언",
+        "points": [
+          {
+            "title": "Physical AI Insight\n[KR] Physical AI 인사이트",
+            "content": "Cocomo represents a paradigm of 'presence-first Physical AI' — rejecting utility for slow-building affective bonding through embodied warmth, non-verbal multi-sensory cues, and adaptive learning. Its warm-touch shell and humming-only communication eliminate cold mechanical barriers, enabling 'lived' continuous companionship that feels animal-like and genuinely relational. This validates the shift toward emotion over function, showing how Physical AI can thrive by accumulating trust via subtle, repeated micro-interactions in everyday life.\n\n[KR] Cocomo는 'presence-first Physical AI' 패러다임 대표 — 유틸리티 거부하고 체화된 따뜻함·비언어 멀티센서리 cues·적응 학습으로 천천히 affective bonding 구축. 따뜻 터치 쉘과 허밍 전용 소통으로 차가운 기계적 장벽 제거, 동물 같은 'lived' 연속 컴패니언십 실현. 명시적 요구 없이 미묘·반복 마이크로 상호작용으로 일상 속 신뢰 축적 가능성 보여줌.",
+            "type": "Physical AI Insight"
+          },
+          {
+            "title": "Expression System UX Insight\n[KR] Expression System UX 인사이트",
+            "content": "Cocomo is a masterclass in Layer 1 (Light & Ambient) + Layer 2 (Motion) + Layer 3 (Display) synergy — warm body temperature (haptic layer) creates instant 'emotional baseline' intimacy, while non-verbal humming and expressive digital eyes deliver empathy cues and mood temperature. Its 10-DoF motion enables legible agency and turn-taking politeness (gentle following for 'stay', pausing for 'withdraw'). For our targets (especially Movable TV): ambient lighting synced to 'warm' color/temperature shifts on proximity; humming-like sound design + micro-gestures as non-verbal empathy cues; and expressive eyes for digital micro-expressions that build 'trust over time'.\n\n[KR] Cocomo는 Layer 1(Lighting & Ambient) + Layer 2(Motion & Physical Behavior) + Layer 3(Display) 시너지로 순수 affective 깊이 마스터 — 터치 시 따뜻 바디 온도(haptic layer)로 즉시 emotional baseline 친밀감 창출; 비언어 허밍 + 자발 제스처 + 표현력 디지털 눈으로 empathy cues와 mood temperature 전달, 동물-like 절제. 10-DoF 모션으로 가독성 agency와 'stay/withdraw' 역할 구현. 우리 타겟(특히 무빙 스타일 TV)에 적용 시: 근접/터치 시 'warm' 컬러/온도 연동 ambient lighting; 허밍-like 사운드 디자인 + 마이크로 제스처 비언어 empathy cues; 상호작용 학습·진화 디지털 마이크로 표현으로 'trust over time' 구축.",
+            "type": "UX Insight"
+          }
+        ]
+      },
+      "images": [
+        "/images/products/ludens-cocomo/ludens-cocomo_1.jpg",
+        "/images/products/ludens-cocomo/ludens-cocomo_2.jpg"
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=Ludens+AI+Cocomo+CES+2026"
+    },
+    {
+      "id": "emo-update",
+      "typeId": "type3",
+      "manufacturer": "Living.AI",
+      "name": "Emo (2026 Update)",
+      "country": "China",
+      "overview": "The popular desktop pet gets a brain boost. Emo now remembers context from weeks ago and can play complex board games with you.",
+      "analysis": {
+        "intro": "Long-Term Memory",
+        "points": [
+          {
+            "title": "Grudge Holding",
+            "content": "Will act 'annoyed' if you ignored it yesterday, simulating a social relationship history."
+          },
+          {
+            "title": "Dance Sync",
+            "content": "Can sync moves with other Emo units nearby, creating a social network of devices."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/emo-update/emo-update_1.jpg"
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=Emo+Robot"
+    },
+    {
+      "id": "miko-mini",
+      "typeId": "type3",
+      "manufacturer": "Miko",
+      "name": "Miko Mini",
+      "country": "India",
+      "overview": "A child-focused companion that uses AI to create stories and educational games on the fly.",
+      "analysis": {
+        "intro": "Educational Play",
+        "points": [
+          {
+            "title": "Emotion Mirroring",
+            "content": "Detects the child's mood and mirrors it to teach empathy."
+          },
+          {
+            "title": "Wheel Base",
+            "content": "Can spin and dance to celebrate correct answers, using movement as positive reinforcement."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/miko-mini/miko-mini_1.png"
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=Miko+Mini+Robot"
+    },
+    {
+      "id": "hapware-aleye",
+      "typeId": "type3",
+      "manufacturer": "Hapware",
+      "name": "Aleye",
+      "country": "USA",
+      "overview": "A wearable AI companion that clips onto glasses, providing visual context awareness and subtle haptic feedback for navigation.",
+      "analysis": {
+        "intro": "Wearable Insight",
+        "points": [
+          {
+            "title": "Clip-on Form",
+            "content": "Attaches non-intrusively to existing eyewear frames."
+          },
+          {
+            "title": "Haptic Guidance",
+            "content": "Uses gentle vibrations to guide users without audio visual distraction."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/hapware-aleye/hapware-aleye_1.jpg",
+        "/images/products/hapware-aleye/hapware-aleye_2.jpg",
+        "/images/products/hapware-aleye/hapware-aleye_3.jpg",
+        "/images/products/hapware-aleye/hapware-aleye_4.jfif",
+        "/images/products/hapware-aleye/hapware-aleye_5.png"
+      ],
+      "videoUrl": ""
+    },
+    {
+      "id": "lego-smartbrick",
+      "typeId": "type3",
+      "manufacturer": "Lego",
+      "name": "SmartBrick",
+      "country": "Denmark",
+      "overview": "An interactive, motorized Lego brick that brings sets to life with behavior programming via simple physical toggles.",
+      "analysis": {
+        "intro": "Playful Physics",
+        "points": [
+          {
+            "title": "Tactile Coding",
+            "content": "Programming is done through physical brick placement, not screens."
+          },
+          {
+            "title": "Universal Fit",
+            "content": "Compatible with all existing Lego systems, upgrading legacy sets."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/lego-smartbrick/lego-smartbrick_1.png",
+        "/images/products/lego-smartbrick/lego-smartbrick_2.png",
+        "/images/products/lego-smartbrick/lego-smartbrick_3.png",
+        "/images/products/lego-smartbrick/lego-smartbrick_4.png",
+        "/images/products/lego-smartbrick/lego-smartbrick_5.jpg"
+      ],
+      "videoUrl": ""
+    },
+    {
+      "id": "lepro-ami",
+      "typeId": "type3",
+      "manufacturer": "Lepro",
+      "name": "Ami",
+      "country": "China",
+      "overview": "A desktop lighting companion that adjusts ambience based on your mood and music, using AI to detect emotional states.",
+      "analysis": {
+        "intro": "Ambient Empathy",
+        "points": [
+          {
+            "title": "Mood Matching",
+            "content": "Analyzes facial expressions to shift lighting warm/cool automatically."
+          },
+          {
+            "title": "Rhythmic Pulse",
+            "content": "Pulses gently with music or conversation flow."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/lepro-ami/lepro-ami_1.png",
+        "/images/products/lepro-ami/lepro-ami_2.jpg"
+      ],
+      "videoUrl": ""
+    },
+    {
+      "id": "samsung-display-ai",
+      "typeId": "type3",
+      "manufacturer": "Samsung Display",
+      "name": "AI Display Concepts",
+      "country": "South Korea",
+      "overview": "Next-generation OLED concepts featuring the 'AI Agent' and 'AI OLED Bot', showcasing flexible screens that move and adapt.",
+      "analysis": {
+        "intro": "Flexible Future",
+        "points": [
+          {
+            "title": "Shape Changing",
+            "content": "Screens that bend to face the user or close for privacy."
+          },
+          {
+            "title": "360 Interaction",
+            "content": "Displays that are visible and interactive from all angles."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/samsung-display-ai/samsung-display-ai_1.jpg",
+        "/images/products/samsung-display-ai/samsung-display-ai_2.jpg",
+        "/images/products/samsung-display-ai/samsung-display-ai_3.jpg",
+        "/images/products/samsung-display-ai/samsung-display-ai_4.jpg"
+      ],
+      "videoUrl": ""
+    },
+    {
+      "id": "tombot-jennie",
+      "typeId": "type3",
+      "manufacturer": "Tombot",
+      "name": "Jennie",
+      "country": "USA",
+      "overview": "A hyper-realistic robotic golden retriever designed for seniors with dementia, providing emotional support without the care burden.",
+      "analysis": {
+        "intro": "Therapeutic Realism",
+        "points": [
+          {
+            "title": "Realistic Fur",
+            "content": "Medical-grade synthetic fur feels indistinguishable from a real dog."
+          },
+          {
+            "title": "Puppy Behavior",
+            "content": "Mimics the needy, loving behavior of a young dog."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/tombot-jennie/tombot-jennie_1.jpg",
+        "/images/products/tombot-jennie/tombot-jennie_2.jpg",
+        "/images/products/tombot-jennie/tombot-jennie_3.jpg",
+        "/images/products/tombot-jennie/tombot-jennie_4.jpg",
+        "/images/products/tombot-jennie/tombot-jennie_5.jpg"
+      ],
+      "videoUrl": ""
+    },
+    {
+      "id": "lenovo-thinkbook-twist",
+      "typeId": "type3",
+      "manufacturer": "Lenovo",
+      "name": "ThinkBook Auto Twist",
+      "country": "China",
+      "overview": "A laptop with a motorized hinge that automatically rotates the screen to follow you during video calls or closes when you leave.",
+      "analysis": {
+        "intro": "Motorized Utility",
+        "points": [
+          {
+            "title": "Auto-Framing",
+            "content": "Physical rotation keeps the camera centered on the user."
+          },
+          {
+            "title": "Security Close",
+            "content": "Lid automatically closes when the user walks away."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/lenovo-thinkbook-twist/lenovo-thinkbook-twist_1.jpg",
+        "/images/products/lenovo-thinkbook-twist/lenovo-thinkbook-twist_2.jpg",
+        "/images/products/lenovo-thinkbook-twist/lenovo-thinkbook-twist_3.jpg",
+        "/images/products/lenovo-thinkbook-twist/lenovo-thinkbook-twist_4.jpg"
+      ],
+      "videoUrl": ""
+    },
+    {
+      "id": "neura-4ne-1",
+      "typeId": "type1",
+      "manufacturer": "NEURA Robotics GmbH (Studio F.A. Porsche)",
+      "name": "4NE-1 (Gen 3.5)",
+      "country": "Germany",
+      "overview": "Purpose: Seamless human-robot collaboration in both industrial/automation and domestic/home assistance environments; bridging the gap toward series production for versatile real-world deployment. The Gen 3 4NE-1 is a redesigned, Porsche-styled humanoid standing approximately 1.8m tall, capable of lifting up to 100kg, walking at 5 km/h, featuring high-torque joints, patented artificial skin for proximity/collision detection, water-cooling system, and powered by NVIDIA Thor T5000 processor. It demonstrates multimodal reasoning (voice, vision, touch) via NVIDIA Isaac GR00T, runs on the Neuraverse OS for real-time skill-sharing across robot fleets, and includes a smaller 4NE-1 Mini variant for education/science. Preorders opened at CES 2026 (€98,000 for full model, €19,999 for Mini).\n\n[KR] 제품의 목적: 산업 자동화 및 가정 보조 모두에서 인간-로봇 원활 협업 실현; 범용 실세계 적용을 위한 양산 단계로의 전환. 상세 설명: Gen 3 4NE-1은 포르쉐 스타일로 재설계된 약 1.8m 높이의 휴머노이드로, 최대 100kg 리프팅, 시속 5km/h 보행, 고토크 관절, 충돌 방지 특허 인공 피부, 수냉 시스템, NVIDIA Thor T5000 프로세서 탑재. NVIDIA Isaac GR00T 기반으로 음성·시각·촉각 멀티모달 추론 시연. Neuraverse OS로 로봇 플릿 간 실시간 스킬 공유 가능. 교육/과학용 소형 4NE-1 Mini 동시 공개. CES 2026에서 사전 주문 시작 (풀 모델 €98,000, Mini €19,999).",
+      "analysis": {
+        "intro": "Cognitive Robotics & Physical AI\n[KR] 인지 로보틱스 및 Physical AI",
+        "points": [
+          {
+            "title": "Physical AI Insight\n[KR] Physical AI 인사이트",
+            "content": "This robot exemplifies 'cognitive robotics' with strong emphasis on safe, intuitive physical interaction in unstructured environments. The patented artificial skin + 3D vision + tactile feedback enable proactive, context-aware behavior, reducing the need for verbal commands and prioritizing embodied intelligence over pure computation. Neuraverse OS highlights fleet learning, making Physical AI scalable and adaptive across multiple units — a key step toward 'lived' continuous presence in daily life.\n\n[KR] 비구조화 환경에서 안전하고 직관적인 물리적 상호작용을 강조하는 '인지 로보틱스'의 전형. 특허 인공 피부 + 3D 비전 + 촉각 피드백으로 사전적·맥락 인지 행동 가능 → 음성 명령 최소화, 체화된 지능 우선. Neuraverse OS는 플릿 학습 강조로 Physical AI의 확장성과 적응성을 보여줌 → 일상 속 'lived' 지속적 존재감의 핵심 단계."
+          },
+          {
+            "title": "Expression System UX Insight\n[KR] Expression System UX 인사이트",
+            "content": "The artificial skin and proximity detection create subtle, non-verbal safety cues (gentle withdrawal or slowing when humans approach), embodying 'withdraw' role from our Strategic Layer. High-torque yet smooth, predictable motion patterns build trust through legibility and agency. Multimodal sensing enables affective micro-responses (e.g., slight head tilt or body orientation toward user). For target form factors (especially Movable/Moving Style TV & Tabletop devices): soft kinetic 'gaze' following + ambient lighting synced to proximity for emotional baseline; use tactile-inspired subtle vibration/light pulses for 'empathy cues' in close interactions; prioritize 'turn-taking politeness' in motion design to enhance companionship and reduce anxiety.\n\n[KR] 인공 피부와 근접 감지로 미묘한 비언어적 안전 신호(인간 접근 시 부드러운 후퇴/감속) 구현 → Strategic Layer의 'withdraw' 역할 체현. 고토크지만 부드럽고 예측 가능한 모션 패턴으로 신뢰 구축(legibility & agency) → Motion & Physical Behavior Framework에 이상적. 멀티모달 센싱으로 affective 마이크로 반응(사용자 쪽 살짝 고개 기울임/몸 방향 전환) 가능. 우리 타겟 폼팩터(특히 Movable/무빙 스타일 TV & 테이블탑)에 적용 시: 부드러운 키네틱 '시선 추종' + 근접 연동 ambient lighting으로 emotional baseline 제공; 촉각 영감 미세 진동/라이트 펄스로 가까운 상호작용 시 'empathy cues'; 모션 디자인에 'turn-taking politeness' 우선으로 companionship 강화 및 불안 감소. 이는 'living presence'와 'trust over time'을 비침습적·지속적 물리적 시그널링으로 실현하는 목표와 완벽히 부합."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/neura-4ne-1/neura-4ne-1_1.jpeg",
+        "/images/products/neura-4ne-1/neura-4ne-1_2.webp",
+        "/images/products/neura-4ne-1/neura-4ne-1_3.jpg"
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=NEURA+Robotics+4NE-1+CES+2026"
+    },
+    {
+      "id": "strutt-ev1",
+      "typeId": "type2",
+      "manufacturer": "Strutt (Mobility Specialist)",
+      "name": "EV1",
+      "country": "Singapore",
+      "overview": "Purpose: To deliver safe, independent mobility for users with limited physical ability (e.g., elderly, disabled) by enabling fully autonomous indoor/outdoor navigation via voice commands or manual override; blending accessibility, autonomy, and seamless real-world integration to reduce dependency and enhance quality of life in everyday spaces. At CES 2026, Strutt demonstrated the EV1 with immersive live experiences — blindfolded volunteers rode through obstacle courses relying solely on the device's autonomy. It autonomously maps environments, navigates indoor/outdoor spaces, avoids walls/bumps/pedestrians in real-time via full sensor suite (cameras, lidar, etc.), responds to voice commands (e.g., 'take me to the sofa' or 'go to the kitchen'), and corrects paths even in manual mode. Won Best Transportation in Best of CES 2026.\n\n[KR] 제품의 목적: 신체적 제약 사용자(노인, 장애인 등)에게 독립적 안전 이동 제공; 음성 명령 또는 수동 오버라이드로 인도어/아웃도어 완전 자율 내비게이션 가능, 접근성·자율성·실세계 원활 통합 결합으로 일상 공간 의존도 감소 및 삶의 질 향상. 상세 설명: CES 2026에서 Strutt는 EV1을 몰입형 라이브 체험으로 시연 — 눈가리개 착용 자원자들이 장애물 코스에서 디바이스 자율성만 의존해 이동. 실시간 풀 센서 스위트(카메라, 라이더 등)로 환경 자동 매핑, 인도어/아웃도어 내비게이션, 벽/범프/보행자 회피, 음성 명령 응답(\"소파로 데려가\" 또는 \"주방으로 가\"), 수동 모드에서도 경로 자동 보정. Best of CES 2026 Best Transportation 수상으로 모빌리티 기술과 실용 자율성 결합 혁신성 인정.",
+      "analysis": {
+        "intro": "Inclusive Physical AI & Autonomous Accessibility\n[KR] 포괄적 Physical AI 및 자율 접근성",
+        "points": [
+          {
+            "title": "Physical AI Insight\n[KR] Physical AI 인사이트",
+            "content": "EV1 represents 'inclusive Physical AI' — applying advanced perception and real-time decision-making to everyday mobility challenges in unstructured environments. Its proactive obstacle avoidance and contextual navigation (without constant input) exemplify continuous 'lived' presence that adapts to human needs subtly, prioritizing safety and independence over flashy performance. This highlights how Physical AI can extend human capabilities in sensitive life domains (aging, accessibility), accumulating trust through reliable, non-intrusive physical agency.\n\n[KR] EV1은 '포괄적 Physical AI' 대표 — 비구조화 환경 일상 이동 도전에 고급 퍼셉션과 실시간 의사결정 적용. 사전적 장애물 회피와 맥락 내비게이션(상시 입력 없이)으로 미묘하게 인간 필요 적응하는 연속 'lived' 존재감 구현. 화려한 퍼포먼스보다 안전·독립성 우선으로, 민감한 삶 영역(고령화, 접근성)에서 Physical AI가 인간 능력 확장 방식 보여주며 전환 공간에서 신뢰할 수 있는 비침습적 물리 agency로 신뢰 축적.",
+            "type": "Physical AI Insight"
+          },
+          {
+            "title": "Expression System UX Insight\n[KR] Expression System UX 인사이트",
+            "content": "EV1 excels in Layer 1 (Light) + Layer 2 (Motion) for reassuring non-verbal communication — ambient LED indicators provide emotional baseline and mood temperature without overwhelming the user, while smooth, predictable motion paths convey agency, safety legibility, and turn-taking politeness. For target form factors: ambient lighting synced to movement state for proactive presence; fluid kinetic trajectories with gentle speed variations as empathy cues (slowing near user = withdraw); voice-independent non-verbal signaling to reduce cognitive load. EV1's focus inspires our PoC to prioritize 'uninterrupted state' and 'cognitive relief' via calm, considerate physical dialogue.\n\n[KR] EV1 디자인은 Layer 1(Light) + Layer 2(Motion)에서 미묘하고 안심되는 비언어 커뮤니케이션 강점 — ambient LED 인디케이터로 emotional baseline과 mood temperature 제공하며 사용자 과부하 피함, 부드럽고 예측 가능한 모션 경로로 agency·safety legibility·turn-taking politeness 전달. 우리 타겟 폼팩터에 적용 시: 이동 상태 연동 ambient lighting으로 프로액티브 존재감(접근 시 따뜻 glow = comfort, 내비게이션 의도 미세 펄스); 사용자 근접 시 감속 등 유연 키네틱 궤적으로 empathy cues; 전환 순간 인지 부하 감소를 위한 음성 독립 비언어 시그널링. EV1의 접근성 초점은 PoC에서 차분·배려 깊은 물리 대화로 'uninterrupted state'와 'cognitive relief' 우선하도록 영감.",
+            "type": "UX Insight"
+          }
+        ]
+      },
+      "images": [
+        "/images/products/strutt-ev1/strutt-ev1_1.jpg",
+        "/images/products/strutt-ev1/strutt-ev1_2.jpg"
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=Strutt+EV1+CES+2026"
+    },
+    {
+      "id": "switchbot-kata",
+      "typeId": "type3",
+      "manufacturer": "SwitchBot",
+      "name": "KATA Friends",
+      "country": "China",
+      "overview": "A series of AI-powered talking plush toys that act as soft interfaces for smart home control and companionship.\n\n[KR] 스마트 홈 제어 및 교감을 위한 부드러운 인터페이스 역할을 하는 AI 기반 음성 인식 봉제 인형 시리즈입니다.",
+      "analysis": {
+        "intro": "Soft Interface\n[KR] 소프트 인터페이스",
+        "points": [
+          {
+            "title": "Squeeze Control",
+            "content": "Commands can be triggered by squeezing or hugging the toy, replacing cold buttons with tactile warmth.\n\n[KR] 차가운 버튼 대신 인형을 쥐거나 안아주는 것으로 명령을 실행할 수 있어 촉각적 따뜻함을 제공합니다."
+          },
+          {
+            "title": "Persona Variety",
+            "content": "Each character has a distinct voice and personality, changing 'commanding a device' into 'asking a friend'.\n\n[KR] 각 캐릭터는 독특한 목소리와 성격을 가지고 있어 '기기에 명령하는 것'을 '친구에게 부탁하는 것'으로 변화시킵니다."
+          }
+        ]
+      },
+      "images": [
+        "/images/products/switchbot-kata/switchbot-kata_1.jpg",
+        "/images/products/switchbot-kata/switchbot-kata_2.webp",
+        "/images/products/switchbot-kata/switchbot-kata_3.png"
+      ],
+      "videoUrl": ""
+    }
+  ]
+}
