@@ -12,6 +12,16 @@ function App() {
   const [selectedProduct, setSelectedProduct] = useState(null);
   const [activeMedia, setActiveMedia] = useState(null); // To handle clicking gallery items
 
+  // Helper to handle image paths for GitHub Pages
+  const getImageUrl = (path) => {
+    if (!path) return '';
+    if (path.startsWith('http') || path.startsWith('data:')) return path;
+    const base = import.meta.env.BASE_URL;
+    const cleanPath = path.startsWith('/') ? path.slice(1) : path;
+    const cleanBase = base.endsWith('/') ? base : base + '/';
+    return cleanBase + cleanPath;
+  };
+
   const openProduct = (product) => {
     setSelectedProduct(product);
     setActiveMedia({ type: 'image', src: product.images[0] });
@@ -314,7 +324,7 @@ function App() {
                     >
                       <div className="product-image-wrap">
                         <img
-                          src={product.images[0]}
+                          src={getImageUrl(product.images[0])}
                           alt={product.name}
                           className="product-col-img"
                         />
@@ -346,7 +356,7 @@ function App() {
               {/* Visual Column */}
               <div className="modal-media">
                 <div className="media-viewer">
-                  <img src={activeMedia?.src} alt="Main View" />
+                  <img src={getImageUrl(activeMedia?.src)} alt="Main View" />
                 </div>
 
                 <div className="media-gallery">
@@ -354,7 +364,7 @@ function App() {
                   {selectedProduct.images.map((img, i) => (
                     <img
                       key={i}
-                      src={img}
+                      src={getImageUrl(img)}
                       alt={`Gallery ${i}`}
                       onClick={() => handleMediaClick(img, 'image')}
                       style={{ borderColor: activeMedia?.src === img ? '#3b82f6' : 'transparent' }}
